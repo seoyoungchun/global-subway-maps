@@ -1,0 +1,67 @@
+<svg viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <!-- 배경 -->
+  <rect width="800" height="600" fill="#f8f9fa"/>
+  
+  <!-- 제목 -->
+  <text x="400" y="40" text-anchor="middle" font-size="24" font-weight="bold" fill="#333">
+    Seoul Subway Map (Test)
+  </text>
+  
+  <!-- 1호선 (파랑) -->
+  <line x1="100" y1="500" x2="700" y2="100" stroke="#0052A4" stroke-width="8"/>
+  <text x="120" y="485" font-size="12" fill="#0052A4" font-weight="bold">Line 1</text>
+  
+  <!-- 2호선 (초록) -->
+  <circle cx="400" cy="300" r="150" fill="none" stroke="#00A84D" stroke-width="8"/>
+  <text x="420" y="160" font-size="12" fill="#00A84D" font-weight="bold">Line 2</text>
+  
+  <!-- 3호선 (주황) -->
+  <line x1="400" y1="80" x2="400" y2="520" stroke="#EF7C1C" stroke-width="8"/>
+  <text x="410" y="100" font-size="12" fill="#EF7C1C" font-weight="bold">Line 3</text>
+  
+  <!-- 4호선 (하늘색) -->
+  <line x1="100" y1="300" x2="700" y2="300" stroke="#00A5DE" stroke-width="8"/>
+  <text x="120" y="290" font-size="12" fill="#00A5DE" font-weight="bold">Line 4</text>
+  
+  <!-- 주요 역들 -->
+  <!-- 서울역 -->
+  <circle cx="300" cy="350" r="6" fill="white" stroke="#333" stroke-width="2"/>
+  <text x="310" y="345" font-size="11" fill="#333">Seoul Station</text>
+  
+  <!-- 강남역 -->
+  <circle cx="500" cy="350" r="6" fill="white" stroke="#333" stroke-width="2"/>
+  <text x="510" y="345" font-size="11" fill="#333">Gangnam</text>
+  
+  <!-- 종로3가 -->
+  <circle cx="400" cy="250" r="6" fill="white" stroke="#333" stroke-width="2"/>
+  <text x="410" y="245" font-size="11" fill="#333">Jongno 3-ga</text>
+  
+  <!-- 홍대입구 -->
+  <circle cx="250" cy="300" r="6" fill="white" stroke="#333" stroke-width="2"/>
+  <text x="260" y="295" font-size="11" fill="#333">Hongik Univ.</text>
+  
+  <!-- 신림 -->
+  <circle cx="350" cy="400" r="6" fill="white" stroke="#333" stroke-width="2"/>
+  <text x="360" y="395" font-size="11" fill="#333">Sillim</text>
+  
+  <!-- 범례 -->
+  <rect x="550" y="450" width="200" height="120" fill="white" stroke="#ddd" stroke-width="1"/>
+  <text x="560" y="470" font-size="14" font-weight="bold" fill="#333">Legend</text>
+  
+  <line x1="560" y1="485" x2="580" y2="485" stroke="#0052A4" stroke-width="4"/>
+  <text x="590" y="490" font-size="12" fill="#333">Line 1 (Blue)</text>
+  
+  <line x1="560" y1="505" x2="580" y2="505" stroke="#00A84D" stroke-width="4"/>
+  <text x="590" y="510" font-size="12" fill="#333">Line 2 (Green)</text>
+  
+  <line x1="560" y1="525" x2="580" y2="525" stroke="#EF7C1C" stroke-width="4"/>
+  <text x="590" y="530" font-size="12" fill="#333">Line 3 (Orange)</text>
+  
+  <line x1="560" y1="545" x2="580" y2="545" stroke="#00A5DE" stroke-width="4"/>
+  <text x="590" y="550" font-size="12" fill="#333">Line 4 (Light Blue)</text>
+  
+  <!-- 푸터 -->
+  <text x="400" y="580" text-anchor="middle" font-size="10" fill="#666">
+    Simplified map for testing purposes
+  </text>
+</svg>
