@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800" height="600" viewBox="0 0 800 600" 
+     xmlns="http://www.w3.org/2000/svg">
+  <title>Berlin Subway Map</title>
+  <rect width="100%" height="100%" fill="#f8f9fa"/>
+
+  <!-- 지하철 선로 -->
+  <g id="subway-lines" stroke="#2563eb" stroke-width="3" fill="none">
+    <polyline points="211.4,392.0 213.5,390.1 215.0,388.6 216.4,387.4 217.2,386.7 218.0,386.2 218.8,385.6 219.4,385.2 219.9,384.9" opacity="0.8"/>
+    <polyline points="212.9,273.5 212.7,273.3 212.6,273.1 212.4,273.0 212.3,272.9 212.2,272.7 212.0,272.6 211.8,272.5 211.6,272.4 211.2,272.2" opacity="0.8"/>
+    <polyline points="325.1,235.2 323.7,234.0 323.2,233.6 323.1,233.5 323.0,233.3 322.9,233.2 322.9,233.0 322.9,232.8 323.1,232.5 323.7,231.7" opacity="0.8"/>
+    <polyline points="312.1,224.7 311.1,224.0 309.4,222.7 309.1,222.4 308.5,221.9 308.4,221.8 308.2,221.6 307.8,221.3 307.6,221.0" opacity="0.8"/>
+    <polyline points="388.5,222.7 388.4,222.0 388.4,221.4 388.3,220.9" opacity="0.8"/>
+    <polyline points="341.3,219.1 343.0,220.9 345.2,223.4 345.6,223.8 346.0,224.3 346.6,224.9 347.4,225.8 347.9,226.4 350.2,229.3 350.6,229.7 350.9,229.9 351.1,230.2 351.4,230.4 351.7,230.5 352.2,230.8 352.7,231.0 354.2,231.6" opacity="0.8"/>
+    <polyline points="496.2,307.2 496.3,307.5 496.4,307.8 496.4,308.0 496.3,308.3" opacity="0.8"/>
+    <polyline points="493.4,302.4 493.2,302.2 493.0,301.8" opacity="0.8"/>
+    <polyline points="383.6,281.3 384.4,280.8 385.2,280.3 385.4,280.1 385.4,280.1 386.8,279.1 387.1,278.9 387.3,278.8 387.9,278.4" opacity="0.8"/>
+    <polyline points="343.3,310.2 343.7,310.3" opacity="0.8"/>
+    <polyline points="493.6,302.5 493.7,302.6 495.0,304.4 495.2,304.6 495.5,304.9 496.6,305.8 496.8,305.9 497.6,306.5 497.8,306.7 498.1,307.1 498.4,307.4 498.5,307.7 498.6,307.9 498.7,308.0 498.7,308.2 499.1,309.5 499.1,309.6" opacity="0.8"/>
+    <polyline points="495.2,304.8 495.4,305.1 495.7,305.5 495.9,305.9 496.1,306.2" opacity="0.8"/>
+    <polyline points="496.1,306.2 496.4,306.5 496.8,307.0 496.9,307.1 497.1,307.3 498.3,308.2 498.4,308.3" opacity="0.8"/>
+    <polyline points="495.8,306.1 495.8,306.2 495.8,306.3 495.8,306.4 495.8,306.6 495.8,306.8 495.7,307.9 495.6,308.2" opacity="0.8"/>
+    <polyline points="495.9,306.4 495.9,306.7 495.9,306.8 495.9,307.0 495.9,307.2 495.8,307.9 495.8,308.2" opacity="0.8"/>
+    <polyline points="495.9,305.9 496.1,306.2 496.3,306.5 496.5,306.8 496.6,307.0 496.7,307.1 496.8,307.2 497.0,307.3 498.2,308.3 498.3,308.4" opacity="0.8"/>
+    <polyline points="496.2,307.2 496.2,307.5 496.2,308.0 496.1,308.2" opacity="0.8"/>
+    <polyline points="496.1,306.2 496.2,306.4 496.3,306.5 496.3,306.7 496.5,306.9 496.5,307.0 496.5,307.1 496.7,307.2 496.9,307.4 498.1,308.4 498.2,308.5" opacity="0.8"/>
+    <polyline points="495.7,305.5 495.9,305.9 495.9,306.1 496.0,306.4 496.1,306.6 496.2,306.8 496.3,307.0 496.4,307.2 496.5,307.3 496.7,307.6 497.0,307.9 498.6,309.2 498.7,309.3" opacity="0.8"/>
+    <polyline points="495.6,305.6 495.8,306.1 495.8,306.2 495.9,306.4 496.0,306.7 496.0,306.8 496.0,307.0 496.0,307.2 496.0,307.4 496.0,307.9 495.9,308.2" opacity="0.8"/>
+    <polyline points="495.4,305.2 495.6,305.5 495.6,305.6 495.8,306.0" opacity="0.8"/>
+    <polyline points="493.4,302.4 494.7,304.2 494.8,304.4 495.2,304.8" opacity="0.8"/>
+    <polyline points="423.9,407.7 422.4,407.1 421.9,406.8 421.5,406.5 421.0,406.2 420.6,405.9 420.2,405.5 420.0,405.3 419.8,405.2 419.5,405.0 419.1,404.8" opacity="0.8"/>
+    <polyline points="420.0,405.7 419.7,405.4 419.6,405.3 419.4,405.2 419.3,405.1 419.2,405.0 418.8,404.7 416.4,403.4" opacity="0.8"/>
+    <polyline points="419.9,405.8 419.7,405.7 419.4,405.5 419.2,405.3 418.6,405.0 416.2,403.6" opacity="0.8"/>
+    <polyline points="420.0,405.7 419.7,405.3 419.6,405.2 419.4,405.0 419.3,404.9 419.1,404.8" opacity="0.8"/>
+    <polyline points="420.6,406.2 420.4,406.1 420.0,405.7" opacity="0.8"/>
+    <polyline points="419.1,404.8 416.5,403.3 416.2,403.1 414.2,402.0" opacity="0.8"/>
+    <polyline points="415.0,403.2 419.1,405.5 419.9,405.9 420.4,406.1 419.9,405.8 419.5,405.5 419.2,405.2 418.7,404.8 416.3,403.5" opacity="0.8"/>
+    <polyline points="414.8,402.8 415.1,403.3 415.3,403.6 415.7,403.9 416.0,404.0 416.6,404.4" opacity="0.8"/>
+    <polyline points="322.3,228.5 323.4,229.4 323.4,229.5 323.5,229.5 323.5,229.7 323.5,229.8 323.5,230.0" opacity="0.8"/>
+    <polyline points="322.1,229.7 322.9,230.4 323.2,230.6 323.3,230.8 323.5,231.0" opacity="0.8"/>
+    <polyline points="322.9,229.9 323.0,230.0 323.1,230.0 323.1,230.1 323.3,230.3 323.4,230.4 323.4,230.5" opacity="0.8"/>
+    <polyline points="322.2,228.7 323.2,229.5 323.2,229.6 323.3,229.7 323.4,229.8 323.4,229.9 323.4,230.1" opacity="0.8"/>
+    <polyline points="322.1,228.8 323.1,229.6 323.2,229.7 323.2,229.8 323.2,229.8 323.3,229.9 323.3,229.9 323.4,230.2" opacity="0.8"/>
+    <polyline points="425.5,302.8 425.6,302.6 425.7,302.4 425.9,302.3 426.1,302.2 426.3,302.2 426.5,302.2 426.7,302.2" opacity="0.8"/>
+    <polyline points="425.7,302.6 425.9,302.6 426.1,302.5 426.3,302.5 426.5,302.5" opacity="0.8"/>
+    <polyline points="423.9,305.5 424.7,304.0 424.8,303.8" opacity="0.8"/>
+    <polyline points="423.9,305.5 424.7,304.0 424.8,303.8" opacity="0.8"/>
+    <polyline points="614.8,253.3 612.4,252.7 611.1,252.1 610.6,251.8 610.1,251.7" opacity="0.8"/>
+    <polyline points="614.0,253.2 612.7,252.9 612.4,252.8 612.1,252.7 611.4,252.4" opacity="0.8"/>
+    <polyline points="616.1,252.8 616.0,252.8 614.2,252.3 614.1,252.3 613.6,252.2 613.0,252.1 612.4,252.0" opacity="0.8"/>
+    <polyline points="612.4,252.0 611.7,251.8 611.3,251.7 610.9,251.6 610.4,251.5" opacity="0.8"/>
+    <polyline points="610.4,251.5 609.9,251.5 609.7,251.4 609.5,251.4" opacity="0.8"/>
+    <polyline points="608.6,251.4 608.2,251.3 607.6,251.2 607.2,251.2 606.9,251.2" opacity="0.8"/>
+    <polyline points="349.5,301.3 349.6,301.0 349.7,300.6 349.8,300.3 349.9,299.9 350.1,299.5 350.2,299.2 350.6,298.1 350.8,297.7 350.9,297.4 351.1,297.0 351.1,297.0 351.2,296.8 351.3,296.7 351.4,296.6 351.4,296.5 351.5,296.4 351.6,296.3 351.7,296.3 351.8,296.2 351.9,296.1 352.0,296.1 352.0,296.0 352.2,295.9 352.3,295.8 352.4,295.8 352.5,295.7 352.6,295.6 352.8,295.4 352.9,295.2 353.1,294.9 353.3,294.6 353.8,293.8 354.0,293.6 354.1,293.5 354.3,293.4 354.4,293.4 354.5,293.3 354.7,293.3 354.9,293.2 355.6,293.1 356.2,293.0 356.8,292.8 357.6,292.6" opacity="0.8"/>
+    <polyline points="322.5,309.1 323.4,309.4" opacity="0.8"/>
+    <polyline points="328.0,309.5 327.4,309.8 327.2,309.9 327.1,310.0 326.9,310.0 326.8,310.0" opacity="0.8"/>
+    <polyline points="332.4,303.9 331.7,306.0 331.2,307.4" opacity="0.8"/>
+    <polyline points="425.0,372.8 424.9,372.4 424.8,372.1 424.6,371.7 423.8,370.1 421.5,365.8" opacity="0.8"/>
+  </g>
+
+  <!-- 지하철 역 -->
+  <g id="subway-stations">
+    <circle cx="209.6" cy="271.6" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="209.6" y="263.6" text-anchor="middle" font-size="10" fill="#374151">Ruhleben</text>
+    <circle cx="322.7" cy="246.8" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="322.7" y="238.8" text-anchor="middle" font-size="10" fill="#374151">Amrumer Straße</text>
+    <circle cx="304.9" cy="300.9" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="304.9" y="292.9" text-anchor="middle" font-size="10" fill="#374151">Zoologischer Garten</text>
+    <circle cx="303.2" cy="304.0" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="303.2" y="296.0" text-anchor="middle" font-size="10" fill="#374151">Kurfürstendamm</text>
+    <circle cx="302.8" cy="321.4" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="302.8" y="313.4" text-anchor="middle" font-size="10" fill="#374151">Güntzelstraße</text>
+    <circle cx="302.8" cy="328.4" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="302.8" y="320.4" text-anchor="middle" font-size="10" fill="#374151">Berliner Straße</text>
+    <circle cx="300.4" cy="351.0" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <circle cx="299.9" cy="361.1" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <circle cx="296.6" cy="366.8" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="296.6" y="358.8" text-anchor="middle" font-size="10" fill="#374151">Schloßstraße</text>
+    <circle cx="292.3" cy="373.7" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="292.3" y="365.7" text-anchor="middle" font-size="10" fill="#374151">Rathaus Steglitz</text>
+    <circle cx="241.6" cy="294.8" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="241.6" y="286.8" text-anchor="middle" font-size="10" fill="#374151">Theodor-Heuss-Platz</text>
+    <circle cx="228.1" cy="285.6" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="228.1" y="277.6" text-anchor="middle" font-size="10" fill="#374151">Neu-Westend</text>
+    <circle cx="281.5" cy="292.1" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="281.5" y="284.1" text-anchor="middle" font-size="10" fill="#374151">Deutsche Oper</text>
+    <circle cx="293.6" cy="292.0" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="293.6" y="284.0" text-anchor="middle" font-size="10" fill="#374151">Ernst-Reuter-Platz</text>
+    <circle cx="310.5" cy="197.8" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="310.5" y="189.8" text-anchor="middle" font-size="10" fill="#374151">Lindauer Allee</text>
+    <circle cx="393.4" cy="286.9" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="393.4" y="278.9" text-anchor="middle" font-size="10" fill="#374151">Jannowitzbrücke</text>
+    <circle cx="315.9" cy="340.8" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="315.9" y="332.8" text-anchor="middle" font-size="10" fill="#374151">Innsbrucker Platz</text>
+    <circle cx="312.7" cy="326.6" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="312.7" y="318.6" text-anchor="middle" font-size="10" fill="#374151">Bayerischer Platz</text>
+    <circle cx="407.2" cy="358.2" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="407.2" y="350.2" text-anchor="middle" font-size="10" fill="#374151">Hermannstraße</text>
+    <circle cx="276.0" cy="292.6" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="276.0" y="284.6" text-anchor="middle" font-size="10" fill="#374151">Bismarckstraße</text>
+    <circle cx="277.4" cy="283.8" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <circle cx="322.7" cy="325.1" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="322.7" y="317.1" text-anchor="middle" font-size="10" fill="#374151">Eisenacher Straße</text>
+    <circle cx="297.5" cy="178.5" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <circle cx="382.5" cy="325.5" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="382.5" y="317.5" text-anchor="middle" font-size="10" fill="#374151">Südstern</text>
+    <circle cx="344.0" cy="320.1" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="344.0" y="312.1" text-anchor="middle" font-size="10" fill="#374151">Yorckstraße</text>
+    <circle cx="491.9" cy="300.5" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="491.9" y="292.5" text-anchor="middle" font-size="10" fill="#374151">Friedrichsfelde</text>
+    <circle cx="370.2" cy="322.6" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="370.2" y="314.6" text-anchor="middle" font-size="10" fill="#374151">Gneisenaustraße</text>
+    <circle cx="253.0" cy="294.7" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="253.0" y="286.7" text-anchor="middle" font-size="10" fill="#374151">Kaiserdamm</text>
+    <circle cx="541.8" cy="301.8" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="541.8" y="293.8" text-anchor="middle" font-size="10" fill="#374151">Elsterwerdaer Platz</text>
+    <circle cx="526.9" cy="310.2" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="526.9" y="302.2" text-anchor="middle" font-size="10" fill="#374151">Biesdorf-Süd</text>
+    <circle cx="375.7" cy="265.3" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="375.7" y="257.3" text-anchor="middle" font-size="10" fill="#374151">Rosenthaler Platz</text>
+    <circle cx="347.5" cy="310.3" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="347.5" y="302.3" text-anchor="middle" font-size="10" fill="#374151">Gleisdreieck</text>
+    <circle cx="362.4" cy="237.2" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="362.4" y="229.2" text-anchor="middle" font-size="10" fill="#374151">Gesundbrunnen</text>
+    <circle cx="338.2" cy="245.8" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="338.2" y="237.8" text-anchor="middle" font-size="10" fill="#374151">Wedding</text>
+    <circle cx="363.8" cy="291.7" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="363.8" y="283.7" text-anchor="middle" font-size="10" fill="#374151">Stadtmitte</text>
+    <circle cx="325.8" cy="235.8" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="325.8" y="227.8" text-anchor="middle" font-size="10" fill="#374151">Seestraße</text>
+    <circle cx="332.0" cy="240.8" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="332.0" y="232.8" text-anchor="middle" font-size="10" fill="#374151">Leopoldplatz</text>
+    <circle cx="453.0" cy="289.4" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="453.0" y="281.4" text-anchor="middle" font-size="10" fill="#374151">Frankfurter Allee</text>
+    <circle cx="356.0" cy="263.2" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="356.0" y="255.2" text-anchor="middle" font-size="10" fill="#374151">Naturkundemuseum</text>
+    <circle cx="367.1" cy="246.9" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="367.1" y="238.9" text-anchor="middle" font-size="10" fill="#374151">Voltastraße</text>
+    <circle cx="385.7" cy="304.2" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="385.7" y="296.2" text-anchor="middle" font-size="10" fill="#374151">Moritzplatz</text>
+    <circle cx="397.5" cy="319.9" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="397.5" y="311.9" text-anchor="middle" font-size="10" fill="#374151">Schönleinstraße</text>
+    <circle cx="400.8" cy="339.1" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="400.8" y="331.1" text-anchor="middle" font-size="10" fill="#374151">Boddinstraße</text>
+    <circle cx="404.0" cy="349.7" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="404.0" y="341.7" text-anchor="middle" font-size="10" fill="#374151">Leinestraße</text>
+    <circle cx="407.3" cy="282.8" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="407.3" y="274.8" text-anchor="middle" font-size="10" fill="#374151">Strausberger Platz</text>
+    <circle cx="259.8" cy="372.8" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="259.8" y="364.8" text-anchor="middle" font-size="10" fill="#374151">Dahlem-Dorf</text>
+    <circle cx="421.0" cy="284.8" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="421.0" y="276.8" text-anchor="middle" font-size="10" fill="#374151">Weberwiese</text>
+    <circle cx="421.1" cy="364.7" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="421.1" y="356.7" text-anchor="middle" font-size="10" fill="#374151">Grenzallee</text>
+    <circle cx="313.1" cy="225.5" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="313.1" y="217.5" text-anchor="middle" font-size="10" fill="#374151">Rehberge</text>
+    <circle cx="364.8" cy="313.0" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="364.8" y="305.0" text-anchor="middle" font-size="10" fill="#374151">Hallesches Tor</text>
+    <circle cx="351.9" cy="296.1" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="351.9" y="288.1" text-anchor="middle" font-size="10" fill="#374151">U Potsdamer Platz</text>
+    <circle cx="343.4" cy="272.1" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="343.4" y="264.1" text-anchor="middle" font-size="10" fill="#374151">Hauptbahnhof</text>
+    <circle cx="424.6" cy="401.9" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="424.6" y="393.9" text-anchor="middle" font-size="10" fill="#374151">Britz-Süd</text>
+    <circle cx="430.0" cy="414.5" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <circle cx="439.7" cy="421.5" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="439.7" y="413.5" text-anchor="middle" font-size="10" fill="#374151">Lipschitzallee</text>
+    <circle cx="473.7" cy="434.0" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="473.7" y="426.0" text-anchor="middle" font-size="10" fill="#374151">Rudow</text>
+    <circle cx="461.8" cy="423.3" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="461.8" y="415.3" text-anchor="middle" font-size="10" fill="#374151">Zwickauer Damm</text>
+    <circle cx="306.5" cy="220.3" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="306.5" y="212.3" text-anchor="middle" font-size="10" fill="#374151">Afrikanische Straße</text>
+    <circle cx="298.7" cy="215.8" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <circle cx="283.6" cy="210.5" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="283.6" y="202.5" text-anchor="middle" font-size="10" fill="#374151">Scharnweberstraße</text>
+    <circle cx="273.5" cy="204.3" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="273.5" y="196.3" text-anchor="middle" font-size="10" fill="#374151">Otisstraße</text>
+    <circle cx="266.5" cy="197.3" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="266.5" y="189.3" text-anchor="middle" font-size="10" fill="#374151">Holzhauser Straße</text>
+    <circle cx="260.7" cy="188.2" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="260.7" y="180.2" text-anchor="middle" font-size="10" fill="#374151">Borsigwerke</text>
+    <circle cx="354.7" cy="285.0" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="354.7" y="277.0" text-anchor="middle" font-size="10" fill="#374151">Brandenburger Tor</text>
+    <circle cx="418.0" cy="356.2" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="418.0" y="348.2" text-anchor="middle" font-size="10" fill="#374151">Neukölln</text>
+    <circle cx="379.7" cy="271.9" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="379.7" y="263.9" text-anchor="middle" font-size="10" fill="#374151">Weinmeisterstraße</text>
+    <circle cx="362.3" cy="279.6" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="362.3" y="271.6" text-anchor="middle" font-size="10" fill="#374151">U Friedrichstraße</text>
+    <circle cx="359.0" cy="292.1" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="359.0" y="284.1" text-anchor="middle" font-size="10" fill="#374151">Mohrenstraße</text>
+    <circle cx="425.5" cy="302.2" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="425.5" y="294.2" text-anchor="middle" font-size="10" fill="#374151">Warschauer Straße</text>
+    <circle cx="209.5" cy="393.5" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="209.5" y="385.5" text-anchor="middle" font-size="10" fill="#374151">Krumme Lanke</text>
+    <circle cx="403.7" cy="310.7" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="403.7" y="302.7" text-anchor="middle" font-size="10" fill="#374151">Görlitzer Bahnhof</text>
+    <circle cx="387.4" cy="284.1" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="387.4" y="276.1" text-anchor="middle" font-size="10" fill="#374151">Klosterstraße</text>
+    <circle cx="396.5" cy="278.8" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="396.5" y="270.8" text-anchor="middle" font-size="10" fill="#374151">Schillingstraße</text>
+    <circle cx="430.7" cy="286.2" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="430.7" y="278.2" text-anchor="middle" font-size="10" fill="#374151">Frankfurter Tor</text>
+    <circle cx="417.6" cy="308.4" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="417.6" y="300.4" text-anchor="middle" font-size="10" fill="#374151">Schlesisches Tor</text>
+    <circle cx="314.8" cy="255.1" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="314.8" y="247.1" text-anchor="middle" font-size="10" fill="#374151">Westhafen</text>
+    <circle cx="380.7" cy="312.0" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="380.7" y="304.0" text-anchor="middle" font-size="10" fill="#374151">Prinzenstraße</text>
+    <circle cx="361.5" cy="399.1" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="361.5" y="391.1" text-anchor="middle" font-size="10" fill="#374151">Alt-Mariendorf</text>
+    <circle cx="359.9" cy="330.3" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <circle cx="321.0" cy="199.5" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="321.0" y="191.5" text-anchor="middle" font-size="10" fill="#374151">Paracelsus-Bad</text>
+    <circle cx="333.4" cy="204.0" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="333.4" y="196.0" text-anchor="middle" font-size="10" fill="#374151">Residenzstraße</text>
+    <circle cx="337.0" cy="213.9" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="337.0" y="205.9" text-anchor="middle" font-size="10" fill="#374151">Franz-Neumann-Platz</text>
+    <circle cx="388.3" cy="221.6" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="388.3" y="213.6" text-anchor="middle" font-size="10" fill="#374151">Vinetastraße</text>
+    <circle cx="358.5" cy="369.0" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <circle cx="359.6" cy="389.4" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="359.6" y="381.4" text-anchor="middle" font-size="10" fill="#374151">Westphalweg</text>
+    <circle cx="393.6" cy="311.1" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="393.6" y="303.1" text-anchor="middle" font-size="10" fill="#374151">Kottbusser Tor</text>
+    <circle cx="266.7" cy="293.5" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <circle cx="326.4" cy="310.2" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="326.4" y="302.2" text-anchor="middle" font-size="10" fill="#374151">Nollendorfplatz</text>
+    <circle cx="378.8" cy="292.9" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="378.8" y="284.9" text-anchor="middle" font-size="10" fill="#374151">Spittelmarkt</text>
+    <circle cx="334.9" cy="309.7" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="334.9" y="301.7" text-anchor="middle" font-size="10" fill="#374151">Kurfürstenstraße</text>
+    <circle cx="350.9" cy="257.5" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="350.9" y="249.5" text-anchor="middle" font-size="10" fill="#374151">Schwartzkopffstraße</text>
+    <circle cx="387.7" cy="261.6" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="387.7" y="253.6" text-anchor="middle" font-size="10" fill="#374151">Senefelderplatz</text>
+    <circle cx="279.9" cy="317.8" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="279.9" y="309.8" text-anchor="middle" font-size="10" fill="#374151">Konstanzer Straße</text>
+    <circle cx="415.4" cy="344.9" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="415.4" y="336.9" text-anchor="middle" font-size="10" fill="#374151">Karl-Marx-Straße</text>
+    <circle cx="361.4" cy="271.7" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="361.4" y="263.7" text-anchor="middle" font-size="10" fill="#374151">Oranienburger Tor</text>
+    <circle cx="278.1" cy="309.6" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="278.1" y="301.6" text-anchor="middle" font-size="10" fill="#374151">Adenauerplatz</text>
+    <circle cx="578.8" cy="259.4" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="578.8" y="251.4" text-anchor="middle" font-size="10" fill="#374151">Cottbusser Platz</text>
+    <circle cx="571.0" cy="278.3" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="571.0" y="270.3" text-anchor="middle" font-size="10" fill="#374151">Kaulsdorf-Nord</text>
+    <circle cx="465.1" cy="291.2" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="465.1" y="283.2" text-anchor="middle" font-size="10" fill="#374151">Magdalenenstraße</text>
+    <circle cx="572.8" cy="267.2" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+  </g>
+</svg>
