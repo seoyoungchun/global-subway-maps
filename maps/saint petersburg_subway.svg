@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800" height="600" viewBox="0 0 800 600" 
+     xmlns="http://www.w3.org/2000/svg">
+  <title>Saint Petersburg Subway Map</title>
+  <rect width="100%" height="100%" fill="#f8f9fa"/>
+
+  <!-- 지하철 선로 -->
+  <g id="subway-lines" stroke="#2563eb" stroke-width="3" fill="none">
+    <polyline points="614.9,54.2 614.8,54.2 614.6,54.3 614.3,54.4 614.0,54.6 613.7,54.7 613.2,55.2" opacity="0.8"/>
+    <polyline points="598.7,59.4 598.0,59.6 597.7,59.8 597.4,60.0 597.1,60.3 596.7,60.7 596.4,61.1 596.0,61.6" opacity="0.8"/>
+    <polyline points="371.0,359.3 373.5,358.6 376.7,357.8 385.0,355.7 387.9,354.9 390.0,354.3 393.8,353.1 397.8,351.5 401.9,349.3 405.7,347.5 409.5,345.8 412.0,345.1 414.7,344.5 417.1,343.9 421.2,342.9 426.4,341.4 431.0,340.1 433.9,338.7 434.8,337.8 435.5,337.0 436.6,335.6 437.7,334.3 438.3,333.4 440.5,331.0 443.6,327.0 446.6,322.7 447.2,321.8 447.6,320.4 447.6,319.3 447.5,318.7 446.5,316.5 442.9,311.5 440.6,307.8 439.9,306.3 439.2,304.8 438.1,302.1 436.6,296.8 430.8,278.6 430.2,276.6 429.9,275.6 429.7,275.1 429.3,273.7 429.1,273.3 428.4,271.4 423.3,263.2 419.0,253.8 418.6,252.2 419.0,248.3 419.2,245.8 419.8,233.2 419.5,230.6 418.8,228.8 417.5,227.1 413.3,223.6 410.9,221.3 409.7,220.0 408.9,218.3 408.7,216.9 408.8,215.6 409.3,214.4 410.2,212.9 410.6,212.0 411.7,210.3 413.4,207.8 414.2,206.8 415.2,205.9 416.3,205.1 417.6,204.3 420.0,203.1 422.2,201.9 423.4,201.0 424.4,199.8 425.1,198.7 426.6,195.0 427.2,194.1 428.0,193.2 429.1,192.4 430.4,191.7 433.3,190.3 437.7,188.2 438.9,187.7 440.1,187.3 443.4,186.6 445.0,186.1 446.5,185.5 447.6,184.8 448.6,184.1 449.4,183.4 449.9,182.6 450.7,181.1 452.0,177.3 452.6,175.5 452.9,173.7 453.4,170.4 453.2,168.2 453.3,167.0 453.5,165.9 453.8,165.3 454.3,164.6 455.2,163.6 456.0,162.8 458.2,161.4 459.9,160.5 461.6,159.9 464.7,158.9 467.2,158.1 472.2,156.4 474.6,155.9 476.9,155.7 478.5,155.7 485.1,156.3 487.0,156.4 488.7,156.3 490.0,156.1 496.5,154.5 499.0,153.9 501.5,153.3 503.0,153.0 505.4,152.4 508.7,151.7 510.4,151.2 511.9,150.6 513.3,149.8 514.9,148.7 515.8,147.9 516.9,146.5 517.6,145.4 527.3,131.4 542.9,108.5 543.9,107.0 544.9,105.5 546.6,103.1 548.2,101.3 549.6,100.3 550.7,99.7 554.4,97.4 562.4,92.7 573.5,86.0 581.5,81.0 585.2,78.3 586.3,77.3 587.3,76.3 588.9,74.0 589.7,72.9 590.3,71.8" opacity="0.8"/>
+    <polyline points="596.0,61.6 593.8,65.5 593.2,66.6 593.0,66.9" opacity="0.8"/>
+    <polyline points="280.8,496.5 281.5,496.4 282.4,496.3 282.8,496.3 283.0,496.2 283.3,496.1 283.5,496.0 283.8,495.9 284.6,495.6 284.9,495.5 285.1,495.4 285.3,495.4 285.5,495.3 285.7,495.2 286.0,495.2 286.2,495.1 286.4,495.1 286.7,495.1 287.3,495.1" opacity="0.8"/>
+    <polyline points="278.2,495.9 278.8,496.0 279.2,496.1 279.7,496.1 280.2,496.1 280.7,496.1 281.2,495.9 281.5,495.8 282.0,495.6 283.4,495.1 283.7,495.0 284.6,494.6 285.1,494.4 285.4,494.3 285.7,494.2 286.0,494.1 286.6,494.0 286.7,493.9 287.0,493.8 287.3,493.7 287.5,493.5 287.7,493.3 287.8,493.1 287.8,492.9 287.9,492.6" opacity="0.8"/>
+    <polyline points="265.4,491.5 273.2,494.2 276.0,495.2 276.9,495.5 277.6,495.7 278.2,495.9 279.1,496.2 279.5,496.4 280.2,496.5 280.8,496.5 282.0,496.5 282.4,496.5 283.3,496.5 283.7,496.5 284.0,496.5 284.2,496.5 284.6,496.5 285.0,496.5 285.8,496.5 287.3,496.5" opacity="0.8"/>
+    <polyline points="265.3,491.6 274.6,494.8 275.5,495.1 276.3,495.4 278.1,496.0 279.0,496.3 279.5,496.4 280.1,496.6 280.8,496.7 281.1,496.8 282.1,497.0 282.9,497.1 283.3,497.2 283.7,497.2 284.1,497.2 285.1,497.2 285.8,497.2 287.3,497.2" opacity="0.8"/>
+    <polyline points="275.7,495.0 275.2,494.7 274.3,494.3 273.1,493.9 265.7,491.4 265.1,491.1 264.8,491.0 264.6,490.9 264.5,490.8 264.1,490.6 263.9,490.5 263.6,490.4" opacity="0.8"/>
+    <polyline points="282.6,497.3 283.2,497.6 283.8,497.8 284.0,497.9 284.3,498.1 284.5,498.2 284.6,498.3 284.8,498.4 285.0,498.5 285.3,498.5 285.6,498.6 285.8,498.7 286.0,498.7 286.2,498.7 286.5,498.8 286.7,498.8 287.3,498.8" opacity="0.8"/>
+    <polyline points="274.6,494.8 273.9,494.7 273.1,494.5 272.7,494.4 272.1,494.2 268.3,492.9" opacity="0.8"/>
+    <polyline points="283.2,497.6 283.7,497.8 283.9,497.8 284.1,497.9 284.3,497.9 284.6,498.1 284.9,498.2 285.2,498.3 285.4,498.4 285.7,498.4 285.9,498.5 286.2,498.6 286.5,498.6 286.8,498.6 287.0,498.6 287.3,498.6" opacity="0.8"/>
+    <polyline points="272.2,494.7 285.6,499.2" opacity="0.8"/>
+    <polyline points="283.3,496.1 284.0,496.0 284.3,495.9 284.8,495.8 285.0,495.7 285.2,495.7 285.6,495.6 285.8,495.5 286.1,495.5 286.4,495.5 286.7,495.5 287.3,495.5" opacity="0.8"/>
+    <polyline points="273.9,494.7 273.2,494.6 272.7,494.5 272.2,494.4 272.0,494.3 268.2,493.0" opacity="0.8"/>
+    <polyline points="284.3,496.1 285.1,496.0 285.3,496.0 285.8,495.9 286.2,495.9 286.6,495.9 286.8,495.8 287.3,495.8" opacity="0.8"/>
+    <polyline points="275.5,495.1 274.9,495.0 274.2,494.9 273.7,494.9 273.6,494.9 273.1,494.9 272.2,494.7 267.3,493.0" opacity="0.8"/>
+    <polyline points="281.3,496.9 281.9,497.1 282.6,497.3 282.9,497.4 283.2,497.5 283.5,497.6 283.7,497.6 283.9,497.7 284.1,497.7 284.6,497.9 284.8,497.9 284.9,498.0 285.2,498.1 285.4,498.2 285.6,498.2 285.8,498.3 286.0,498.3 286.3,498.4 286.5,498.4 286.7,498.4 287.0,498.4 287.3,498.4" opacity="0.8"/>
+    <polyline points="284.6,495.6 284.8,495.6 284.9,495.5 285.2,495.5 285.5,495.4 285.8,495.4 286.1,495.3 286.5,495.3 286.8,495.3 287.2,495.3" opacity="0.8"/>
+    <polyline points="276.0,495.2 275.7,495.0 275.4,494.8 275.0,494.5 274.5,493.9 273.8,493.1 273.6,492.9 273.0,492.3 272.5,491.9" opacity="0.8"/>
+    <polyline points="282.4,496.5 283.0,496.5 283.5,496.6 284.3,496.7 285.1,496.8 285.4,496.8 285.8,496.8 286.1,496.8 286.5,496.8 287.3,496.8" opacity="0.8"/>
+    <polyline points="280.8,496.7 281.3,496.9 281.9,497.1 282.3,497.3 282.9,497.6 283.1,497.7 283.2,497.9 283.5,498.1 283.7,498.2 283.8,498.3 284.0,498.4 284.2,498.5 284.3,498.5 284.5,498.6 284.7,498.6 284.8,498.7 284.9,498.7 285.1,498.8 285.5,498.9 285.7,499.0 285.9,499.0 286.1,499.1 286.3,499.1 286.6,499.1 287.3,499.1" opacity="0.8"/>
+    <polyline points="282.4,496.3 283.0,496.3 283.6,496.2 284.1,496.1 284.3,496.1" opacity="0.8"/>
+    <polyline points="282.1,497.0 282.5,497.1 282.8,497.2 283.1,497.3 283.4,497.4 283.7,497.4 284.0,497.5 284.5,497.6 284.9,497.7 285.3,497.8 285.7,497.8 286.0,497.9 286.2,497.9 286.5,498.0 286.8,498.0 287.3,498.0" opacity="0.8"/>
+    <polyline points="273.2,494.2 272.4,493.7 271.9,493.6 268.1,492.3" opacity="0.8"/>
+    <polyline points="284.3,496.1 284.5,496.1 285.1,496.1 285.5,496.1 285.7,496.1 286.0,496.1 286.3,496.2 286.5,496.2 286.8,496.2 287.3,496.2" opacity="0.8"/>
+    <polyline points="282.9,497.1 283.5,497.3 283.8,497.3 284.2,497.4 284.7,497.5 285.1,497.5 285.8,497.6 286.1,497.6 286.5,497.6 287.3,497.6" opacity="0.8"/>
+    <polyline points="613.8,54.8 614.2,54.6 614.5,54.4 614.9,54.3 615.0,54.2" opacity="0.8"/>
+    <polyline points="617.2,56.4 621.8,54.8" opacity="0.8"/>
+    <polyline points="613.0,54.2 613.4,54.0 614.0,53.8 614.3,53.7 614.4,53.6" opacity="0.8"/>
+    <polyline points="608.9,57.1 610.2,57.0 610.7,56.9 611.5,56.9 612.4,57.0 613.0,57.0 614.4,57.0 615.0,57.0" opacity="0.8"/>
+    <polyline points="609.9,56.9 611.7,56.5 612.8,56.3 613.6,56.1 614.8,55.9" opacity="0.8"/>
+    <polyline points="614.3,55.4 615.5,54.9 615.7,54.9" opacity="0.8"/>
+    <polyline points="603.5,58.6 604.4,58.5 605.1,58.5 606.3,58.5" opacity="0.8"/>
+    <polyline points="612.5,54.9 612.9,54.7 613.4,54.5 614.6,54.0 614.7,54.0" opacity="0.8"/>
+    <polyline points="609.3,57.7 607.2,57.9 606.6,58.0" opacity="0.8"/>
+    <polyline points="616.3,55.6 620.9,53.9" opacity="0.8"/>
+    <polyline points="614.3,55.4 614.7,55.2 615.2,54.9 615.5,54.8 615.6,54.8" opacity="0.8"/>
+    <polyline points="614.6,55.7 615.2,55.6 615.7,55.4 616.0,55.3 616.1,55.3" opacity="0.8"/>
+    <polyline points="613.0,54.2 613.4,53.9 613.6,53.8 613.9,53.7 614.2,53.6 614.3,53.5" opacity="0.8"/>
+    <polyline points="600.7,59.1 603.3,58.5 604.0,58.4 606.1,57.9" opacity="0.8"/>
+    <polyline points="616.3,55.5 620.8,53.8" opacity="0.8"/>
+    <polyline points="602.1,58.7 603.3,58.5" opacity="0.8"/>
+    <polyline points="614.2,55.2 614.9,54.8 615.3,54.7 615.4,54.6" opacity="0.8"/>
+    <polyline points="613.9,55.9 614.4,55.7 615.8,55.2 615.9,55.1" opacity="0.8"/>
+    <polyline points="613.0,54.5 613.5,54.3 614.6,53.9 614.7,53.9" opacity="0.8"/>
+    <polyline points="607.5,57.8 606.6,58.0 605.6,58.2 604.9,58.3 604.2,58.5 603.5,58.6 602.8,58.7" opacity="0.8"/>
+    <polyline points="613.6,55.5 614.0,55.3 614.3,55.0 614.7,54.8 615.2,54.6 615.3,54.6" opacity="0.8"/>
+    <polyline points="609.4,57.9 608.8,58.0 607.6,58.0" opacity="0.8"/>
+    <polyline points="617.0,56.2 621.6,54.6" opacity="0.8"/>
+  </g>
+
+  <!-- 지하철 역 -->
+  <g id="subway-stations">
+    <circle cx="350.5" cy="258.2" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="350.5" y="250.2" text-anchor="middle" font-size="10" fill="#374151">Петроградская</text>
+    <circle cx="362.8" cy="279.7" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="362.8" y="271.7" text-anchor="middle" font-size="10" fill="#374151">Горьковская</text>
+    <circle cx="306.4" cy="290.9" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="306.4" y="282.9" text-anchor="middle" font-size="10" fill="#374151">Спортивная</text>
+    <circle cx="312.6" cy="270.5" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="312.6" y="262.5" text-anchor="middle" font-size="10" fill="#374151">Чкаловская</text>
+    <circle cx="360.4" cy="140.9" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="360.4" y="132.9" text-anchor="middle" font-size="10" fill="#374151">Удельная</text>
+    <circle cx="256.5" cy="245.6" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="256.5" y="237.6" text-anchor="middle" font-size="10" fill="#374151">Крестовский остров</text>
+    <circle cx="244.3" cy="207.8" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="244.3" y="199.8" text-anchor="middle" font-size="10" fill="#374151">Старая Деревня</text>
+    <circle cx="362.6" cy="340.7" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="362.6" y="332.7" text-anchor="middle" font-size="10" fill="#374151">Садовая</text>
+    <circle cx="363.9" cy="344.3" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="363.9" y="336.3" text-anchor="middle" font-size="10" fill="#374151">Сенная площадь</text>
+    <circle cx="411.7" cy="342.4" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="411.7" y="334.4" text-anchor="middle" font-size="10" fill="#374151">Достоевская</text>
+    <circle cx="436.7" cy="354.0" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="436.7" y="346.0" text-anchor="middle" font-size="10" fill="#374151">Лиговский проспект</text>
+    <circle cx="487.9" cy="350.1" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <circle cx="540.6" cy="336.3" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="540.6" y="328.3" text-anchor="middle" font-size="10" fill="#374151">Новочеркасская</text>
+    <circle cx="591.1" cy="332.0" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="591.1" y="324.0" text-anchor="middle" font-size="10" fill="#374151">Ладожская</text>
+    <circle cx="328.3" cy="208.8" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="328.3" y="200.8" text-anchor="middle" font-size="10" fill="#374151">Чёрная речка</text>
+    <circle cx="319.9" cy="171.0" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="319.9" y="163.0" text-anchor="middle" font-size="10" fill="#374151">Пионерская</text>
+    <circle cx="365.7" cy="102.4" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="365.7" y="94.4" text-anchor="middle" font-size="10" fill="#374151">Озерки</text>
+    <circle cx="436.3" cy="335.4" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="436.3" y="327.4" text-anchor="middle" font-size="10" fill="#374151">Площадь Восстания</text>
+    <circle cx="591.5" cy="69.3" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="591.5" y="61.3" text-anchor="middle" font-size="10" fill="#374151">Девяткино</text>
+    <circle cx="664.1" cy="381.8" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="664.1" y="373.8" text-anchor="middle" font-size="10" fill="#374151">Улица Дыбенко</text>
+    <circle cx="631.2" cy="355.2" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <circle cx="623.5" cy="512.8" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="623.5" y="504.8" text-anchor="middle" font-size="10" fill="#374151">Обухово</text>
+    <circle cx="586.9" cy="448.6" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="586.9" y="440.6" text-anchor="middle" font-size="10" fill="#374151">Ломоносовская</text>
+    <circle cx="637.3" cy="476.4" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="637.3" y="468.4" text-anchor="middle" font-size="10" fill="#374151">Пролетарская</text>
+    <circle cx="382.7" cy="326.0" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="382.7" y="318.0" text-anchor="middle" font-size="10" fill="#374151">Гостиный двор</text>
+    <circle cx="211.4" cy="293.9" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="211.4" y="285.9" text-anchor="middle" font-size="10" fill="#374151">Приморская</text>
+    <circle cx="360.2" cy="418.0" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="360.2" y="410.0" text-anchor="middle" font-size="10" fill="#374151">Московские ворота</text>
+    <circle cx="362.1" cy="445.4" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="362.1" y="437.4" text-anchor="middle" font-size="10" fill="#374151">Электросила</text>
+    <circle cx="254.3" cy="475.9" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="254.3" y="467.9" text-anchor="middle" font-size="10" fill="#374151">Автово</text>
+    <circle cx="379.4" cy="326.6" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="379.4" y="318.6" text-anchor="middle" font-size="10" fill="#374151">Невский проспект</text>
+    <circle cx="331.6" cy="384.8" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="331.6" y="376.8" text-anchor="middle" font-size="10" fill="#374151">Балтийская</text>
+    <circle cx="278.5" cy="402.4" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="278.5" y="394.4" text-anchor="middle" font-size="10" fill="#374151">Нарвская</text>
+    <circle cx="253.5" cy="449.9" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="253.5" y="441.9" text-anchor="middle" font-size="10" fill="#374151">Кировский завод</text>
+    <circle cx="268.0" cy="511.0" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="268.0" y="503.0" text-anchor="middle" font-size="10" fill="#374151">Ленинский проспект</text>
+    <circle cx="237.6" cy="530.2" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="237.6" y="522.2" text-anchor="middle" font-size="10" fill="#374151">Проспект Ветеранов</text>
+    <circle cx="438.9" cy="409.5" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="438.9" y="401.5" text-anchor="middle" font-size="10" fill="#374151">Волковская</text>
+    <circle cx="421.1" cy="372.6" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="421.1" y="364.6" text-anchor="middle" font-size="10" fill="#374151">Обводный канал</text>
+    <circle cx="368.2" cy="509.3" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="368.2" y="501.3" text-anchor="middle" font-size="10" fill="#374151">Московская</text>
+    <circle cx="478.7" cy="471.2" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="478.7" y="463.2" text-anchor="middle" font-size="10" fill="#374151">Международная</text>
+    <circle cx="457.2" cy="440.9" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="457.2" y="432.9" text-anchor="middle" font-size="10" fill="#374151">Бухарестская</text>
+    <circle cx="359.5" cy="343.7" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="359.5" y="335.7" text-anchor="middle" font-size="10" fill="#374151">Спасская</text>
+    <circle cx="352.5" cy="321.8" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="352.5" y="313.8" text-anchor="middle" font-size="10" fill="#374151">Адмиралтейская</text>
+    <circle cx="358.9" cy="368.2" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <circle cx="360.8" cy="367.8" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <circle cx="429.4" cy="275.2" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="429.4" y="267.2" text-anchor="middle" font-size="10" fill="#374151">Площадь Ленина</text>
+    <circle cx="418.6" cy="248.3" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="418.6" y="240.3" text-anchor="middle" font-size="10" fill="#374151">Выборгская</text>
+    <circle cx="451.7" cy="177.2" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="451.7" y="169.2" text-anchor="middle" font-size="10" fill="#374151">Площадь Мужества</text>
+    <circle cx="464.6" cy="158.7" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="464.6" y="150.7" text-anchor="middle" font-size="10" fill="#374151">Политехническая</text>
+    <circle cx="498.8" cy="153.7" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="498.8" y="145.7" text-anchor="middle" font-size="10" fill="#374151">Академическая</text>
+    <circle cx="543.6" cy="107.0" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <circle cx="387.5" cy="353.3" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="387.5" y="345.3" text-anchor="middle" font-size="10" fill="#374151">Звенигородская</text>
+    <circle cx="387.7" cy="354.7" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="387.7" y="346.7" text-anchor="middle" font-size="10" fill="#374151">Пушкинская</text>
+    <circle cx="280.9" cy="306.2" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="280.9" y="298.2" text-anchor="middle" font-size="10" fill="#374151">Василеостровская</text>
+    <circle cx="439.5" cy="306.4" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="439.5" y="298.4" text-anchor="middle" font-size="10" fill="#374151">Чернышевская</text>
+    <circle cx="503.7" cy="497.5" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="503.7" y="489.5" text-anchor="middle" font-size="10" fill="#374151">Проспект Славы</text>
+    <circle cx="532.6" cy="534.5" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="532.6" y="526.5" text-anchor="middle" font-size="10" fill="#374151">Дунайская</text>
+    <circle cx="484.2" cy="352.6" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <circle cx="433.6" cy="334.2" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="433.6" y="326.2" text-anchor="middle" font-size="10" fill="#374151">Маяковская</text>
+    <circle cx="414.6" cy="344.3" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="414.6" y="336.3" text-anchor="middle" font-size="10" fill="#374151">Владимирская</text>
+    <circle cx="411.4" cy="210.3" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="411.4" y="202.3" text-anchor="middle" font-size="10" fill="#374151">Лесная</text>
+    <circle cx="163.1" cy="242.6" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="163.1" y="234.6" text-anchor="middle" font-size="10" fill="#374151">Зенит</text>
+    <circle cx="552.6" cy="406.1" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="552.6" y="398.1" text-anchor="middle" font-size="10" fill="#374151">Елизаровская</text>
+    <circle cx="145.1" cy="208.7" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="145.1" y="200.7" text-anchor="middle" font-size="10" fill="#374151">Беговая</text>
+    <circle cx="387.8" cy="71.2" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <circle cx="245.9" cy="157.7" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <circle cx="259.5" cy="332.8" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="259.5" y="324.8" text-anchor="middle" font-size="10" fill="#374151">Горный институт</text>
+  </g>
+</svg>
