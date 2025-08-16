@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800" height="600" viewBox="0 0 800 600" 
+     xmlns="http://www.w3.org/2000/svg">
+  <title>Barcelona Subway Map</title>
+  <rect width="100%" height="100%" fill="#f8f9fa"/>
+
+  <!-- 지하철 선로 -->
+  <g id="subway-lines" stroke="#2563eb" stroke-width="3" fill="none">
+    <polyline points="456.3,263.7 456.9,264.2 457.6,264.6 457.9,264.8 458.2,265.0 458.6,265.3 458.9,265.5 459.3,265.7" opacity="0.8"/>
+    <polyline points="588.7,101.1 589.4,100.5 590.3,99.5 590.9,98.6 591.2,97.8 591.2,97.2 591.1,96.6 590.8,96.0 590.2,95.3 589.0,93.9 587.0,91.5 586.2,90.4 585.5,89.1 585.0,87.6 584.8,85.7 584.8,83.8 584.9,82.8 584.7,82.0 584.5,81.1 584.0,80.3 583.4,79.6 582.6,79.0 581.6,78.4 580.4,77.8 579.4,77.5 578.1,77.3 577.0,77.1 575.8,77.0 574.3,76.9 572.9,77.0 572.0,77.1" opacity="0.8"/>
+    <polyline points="586.4,107.8 584.0,107.2 582.2,106.8 581.5,106.6 580.9,106.5 580.1,106.4 579.2,106.3 578.5,106.3 577.7,106.2 576.9,106.2 575.2,106.1 574.8,106.1 569.9,105.9 568.8,105.9 567.9,105.9 567.1,106.0 566.0,106.1 564.9,106.2 563.5,106.4 562.5,106.6 561.5,107.0 560.5,107.3 559.5,107.7 558.7,108.2 557.8,108.7 556.4,109.6 555.1,110.5 554.9,110.6 550.4,114.0 549.1,115.0 547.8,116.1 546.9,116.7 545.9,117.2 545.1,117.6 544.3,117.9 542.6,118.4 541.8,118.6 541.1,118.7 539.5,119.1 538.3,119.4 537.6,119.6 537.0,119.7 536.4,120.0 535.7,120.3 534.8,120.7 534.0,121.2 533.1,121.9 532.5,122.3 531.4,123.5 529.2,125.7 528.5,126.3 527.7,126.7 527.0,127.1 526.4,127.4 519.7,129.4 512.7,131.4 505.0,133.6 502.0,134.4 501.1,134.5 500.1,134.6 499.0,134.7 495.7,134.8 494.2,134.8 492.6,134.9 490.4,135.3 488.9,135.7 488.1,136.0 487.4,136.3 486.4,136.8 484.9,137.7 482.7,139.3 481.2,140.3 479.8,141.0 477.2,142.1 474.5,142.9 468.1,145.4 465.8,146.3 464.9,146.5 463.5,146.9 462.6,147.0 461.9,147.1 460.5,147.2 460.2,147.2 459.6,147.2 458.4,147.1 457.2,146.9 454.5,146.5 452.7,146.3 450.8,146.3 449.0,146.4 447.5,146.7 446.0,147.1 444.5,147.8 441.0,149.9 440.0,150.6 435.1,153.8 433.7,155.1 432.3,156.6 431.6,157.6 427.7,163.6 424.2,169.4 422.1,172.7 420.2,176.1 418.3,179.3 415.3,184.2 415.2,184.2 413.6,186.9 411.8,189.6 410.7,190.9 409.8,192.3 409.2,193.2 408.8,194.3 408.5,195.5 408.4,196.5 408.4,197.5 408.6,199.0 409.1,201.2 410.0,206.0 410.4,207.0 410.7,207.6 411.4,208.4 415.4,213.0 417.6,215.7 417.9,216.3 417.9,216.7 417.9,217.6 417.5,220.0 417.7,221.0 418.0,221.5 418.4,222.0 419.1,222.5 419.8,222.9 421.7,223.6 423.4,224.0 424.4,224.2 425.9,224.6 427.0,225.0 429.1,226.4 430.9,227.5 434.8,229.7 441.0,234.0 441.7,234.6 442.3,235.2 442.9,235.9 443.6,236.8 444.3,238.1 445.0,240.1 445.4,240.9 445.6,241.1 446.0,241.6 446.6,242.0 447.0,242.3 448.1,243.1 450.3,245.4 454.1,249.0 454.4,249.5 455.2,250.9 456.0,252.2 457.2,253.6 458.4,254.9 459.3,255.9 460.1,256.4 467.7,261.4 473.4,264.9 474.5,265.6 475.3,266.2 476.7,267.6 477.8,268.4 485.2,272.9 486.7,273.8 504.3,284.6 508.6,287.3 510.3,288.4 512.1,289.5 519.1,293.9 521.4,295.3 522.7,296.1 524.0,296.9 524.6,297.3 525.1,297.6 525.6,298.0 526.0,298.4 526.2,298.6 526.5,298.9 526.7,299.2 526.9,299.4 527.0,299.6 527.3,300.1 527.5,300.6 527.6,301.0 527.7,301.6 527.7,302.3 527.7,302.4 527.8,304.2 527.8,304.8 527.8,305.4 527.9,305.6 527.9,305.9 528.0,306.2 528.2,306.6 528.6,307.2 529.5,308.5 530.7,309.8 534.2,313.9 535.1,314.7 536.0,315.6 537.9,317.3 539.8,319.0 542.3,321.2 544.9,323.5 547.9,326.2 549.0,326.9 549.6,327.4 550.0,327.9 550.6,328.6 551.1,329.2 551.6,329.9 552.2,330.7 552.3,331.1 552.3,331.6 552.2,331.9 551.9,332.4 551.5,332.8 550.6,333.7 549.9,334.3 548.4,335.7 547.5,336.5 546.9,336.8 546.3,337.1 542.2,338.6 541.0,339.0 540.3,339.1 539.2,339.2 536.6,339.1 532.7,339.1 524.5,339.0 518.6,339.0 513.1,339.0 509.6,338.9 490.3,338.8 489.3,338.8 457.9,338.7 456.0,338.7 452.7,338.7" opacity="0.8"/>
+    <polyline points="459.5,265.6 458.0,264.6 457.1,263.9 456.9,263.7 456.7,263.6" opacity="0.8"/>
+    <polyline points="273.4,433.1 278.0,430.7 278.8,430.3 289.6,424.2 290.6,423.6 291.3,423.0 292.4,421.8 292.9,420.8 293.1,420.3 293.1,419.9 292.9,419.1 292.5,418.4 291.8,417.4 288.5,413.4 287.0,411.6 286.2,410.9 284.7,410.0 283.7,409.5 282.8,409.2 271.3,405.9 268.4,404.4 266.8,403.5 265.5,402.5 265.2,402.2 262.5,399.3 259.4,395.8 257.4,393.7 256.7,392.8 256.2,392.1 255.7,391.2 254.3,388.8 253.4,387.0 252.8,386.0 251.8,384.3 250.7,382.9 246.8,377.8 244.9,375.3 243.6,372.9 242.2,370.7 241.6,368.9 241.7,367.8 242.4,366.2 243.0,365.6 243.9,364.7 245.1,363.9 246.5,363.3 250.1,362.4 250.9,362.3 255.4,361.6 260.7,360.7 262.9,360.3 264.7,360.0 265.7,359.9 266.8,359.8 268.0,359.8 269.5,359.8 272.3,359.7 275.5,359.7 284.0,359.6 290.6,359.6 311.5,359.4 329.9,359.4 332.1,359.5 335.8,359.8 338.5,360.3 342.1,360.7 345.9,360.8 348.5,360.7 350.6,360.4 353.1,359.9 355.7,359.4 356.7,359.1 359.9,358.2 362.4,357.3" opacity="0.8"/>
+    <polyline points="553.6,182.9 553.3,182.5 553.1,182.0 552.2,180.3 550.9,177.6 550.3,176.1 550.1,175.6 549.9,174.9 549.8,174.1 549.7,173.1 549.7,172.4 549.5,171.8 549.4,171.4 549.0,170.7 548.7,170.2 548.5,170.0 548.2,169.6 547.8,169.2" opacity="0.8"/>
+    <polyline points="92.5,409.6 80.4,410.7 76.4,411.0 74.7,411.2 72.7,411.4 67.4,412.2 66.2,412.3 64.8,412.5 62.0,412.7 59.1,413.0 54.7,413.4 53.0,413.5" opacity="0.8"/>
+    <polyline points="432.3,430.4 433.9,428.5 434.6,427.5" opacity="0.8"/>
+    <polyline points="392.5,480.6 391.8,481.6 391.4,482.0" opacity="0.8"/>
+    <polyline points="392.0,484.3 392.0,484.0 392.0,483.6 392.0,483.5 392.0,483.2 392.0,483.1 392.0,482.9 391.9,482.6 391.9,482.4 391.9,482.2 392.0,481.9 392.0,481.7 392.1,481.5 392.2,481.2 392.3,480.9 392.5,480.6" opacity="0.8"/>
+    <polyline points="748.6,128.6 752.0,128.4 761.9,127.8 763.8,127.8 765.5,128.0 767.1,128.2 768.4,128.5 769.7,128.9 785.3,135.6" opacity="0.8"/>
+    <polyline points="622.5,168.9 622.2,164.5 622.1,162.7 622.2,161.7 622.5,160.4 623.0,159.3 623.6,158.3 624.4,157.5 625.4,156.8 626.3,156.0" opacity="0.8"/>
+    <polyline points="396.1,476.2 396.4,475.7 396.6,475.4 396.9,474.7 397.3,474.0 397.5,473.7 397.8,473.3" opacity="0.8"/>
+    <polyline points="395.5,476.0 396.1,475.4 396.9,474.7 397.6,474.1 398.0,473.7 398.3,473.4" opacity="0.8"/>
+    <polyline points="376.3,500.1 378.0,497.9 379.1,496.5 388.3,485.1 390.9,481.9" opacity="0.8"/>
+    <polyline points="391.4,482.0 390.8,482.6 390.4,483.0 390.0,483.5 389.5,484.1 389.5,484.1 388.6,485.2 379.5,496.6" opacity="0.8"/>
+    <polyline points="388.3,485.1 389.3,484.1" opacity="0.8"/>
+    <polyline points="379.3,496.5 388.4,485.2 389.3,484.1 389.4,484.0 389.8,483.5 390.2,482.9 390.9,481.9" opacity="0.8"/>
+    <polyline points="391.8,481.9 391.8,482.4 392.0,482.9" opacity="0.8"/>
+    <polyline points="388.8,485.3 389.5,484.1" opacity="0.8"/>
+    <polyline points="390.2,482.9 389.9,483.5 389.5,484.1" opacity="0.8"/>
+    <polyline points="392.0,481.9 391.8,482.4 391.7,482.9" opacity="0.8"/>
+    <polyline points="392.2,480.1 392.0,480.5 391.9,480.7 391.8,480.9 391.8,481.0 391.8,481.2 391.8,481.4 391.8,481.6 391.8,481.9 391.8,482.2 391.8,482.4 391.7,482.6 391.7,482.9 391.7,483.1 391.6,483.3 391.6,483.5 391.6,483.7 391.6,483.9 391.6,484.1 391.5,484.2 391.5,484.4" opacity="0.8"/>
+    <polyline points="390.4,483.0 389.9,483.5 389.4,484.0" opacity="0.8"/>
+    <polyline points="391.8,484.3 391.9,484.1 392.0,483.9 392.0,483.6" opacity="0.8"/>
+    <polyline points="391.6,482.4 391.6,482.8 391.6,483.5" opacity="0.8"/>
+    <polyline points="392.1,482.4 392.1,482.8 392.1,483.2 392.0,483.5" opacity="0.8"/>
+    <polyline points="391.8,483.1 391.8,483.5 391.8,483.9 391.8,484.1 391.7,484.3" opacity="0.8"/>
+    <polyline points="434.6,427.5 435.3,426.5 435.9,425.4 436.3,424.3 436.4,423.3 436.2,422.4 435.8,421.3 435.0,420.1 434.1,418.9 433.4,418.0 431.5,416.0 429.1,413.5 427.9,412.3 426.5,410.8 423.0,407.0 422.0,406.0 416.7,400.3 414.6,398.4" opacity="0.8"/>
+    <polyline points="92.5,409.6 94.3,409.4 95.9,409.3 97.5,409.2 99.1,409.2 101.2,409.3 103.7,409.5 106.8,409.9" opacity="0.8"/>
+    <polyline points="689.5,141.5 690.2,140.2 690.4,139.7 690.5,138.0 690.4,137.1 689.2,134.0 688.2,132.0 687.8,130.8 687.7,130.0 687.8,129.0 688.2,127.6 688.9,126.2 689.6,124.9 690.9,122.9" opacity="0.8"/>
+    <polyline points="362.3,357.2 359.8,358.1 356.6,359.0 356.0,359.2 355.5,359.3 353.1,359.8 350.6,360.3 348.5,360.6 345.9,360.7 342.1,360.7 338.6,360.2 335.9,359.7 332.1,359.3 329.9,359.2 311.5,359.3 290.7,359.4 284.0,359.5 275.7,359.5 272.4,359.6 269.5,359.6 268.0,359.7 266.8,359.7 265.7,359.8 264.7,359.9 262.8,360.2 260.6,360.6 255.3,361.5 251.9,362.1 250.0,362.3 246.4,363.2 245.0,363.8 243.8,364.6 242.8,365.5 242.2,366.2 241.5,367.8 241.4,368.9 242.0,370.7 243.4,372.9 244.8,375.3 246.7,377.9 250.5,382.9 251.6,384.4 252.5,386.0 253.4,387.6 254.2,388.8 255.5,391.2 256.1,392.2 256.5,392.8 257.2,393.7 259.1,395.8 262.3,399.3 265.4,402.6 266.7,403.5 268.4,404.5 271.2,405.9 282.7,409.2 283.6,409.6 284.6,410.0 286.1,411.0 286.8,411.6 288.4,413.5 291.7,417.4 292.4,418.4 292.7,419.1 292.9,419.9 293.0,420.3 292.8,420.8 292.2,421.8 291.2,422.9 290.5,423.5 289.5,424.1 278.5,430.2 277.8,430.6 273.3,433.0" opacity="0.8"/>
+    <polyline points="516.4,288.6 517.4,286.1 517.7,285.5 517.9,285.1 518.2,284.7 518.4,284.5 518.9,284.1 519.4,283.7 520.0,283.3 531.1,277.0 531.5,276.7 534.4,275.1 535.5,274.1 535.8,273.6 536.2,272.9 536.2,272.4 536.2,271.5 535.8,270.6 535.4,269.9 535.0,269.2 534.3,268.5 533.3,267.8 529.5,265.6 525.5,263.3 520.9,260.6 503.7,250.6 502.6,249.7 502.1,249.2 501.7,248.5 500.6,246.3 499.7,244.0 499.6,242.9 500.1,241.7 505.4,226.8 505.7,226.1 506.3,225.4 507.9,224.3 509.4,223.7 518.2,221.6 526.4,220.0 528.5,219.3 534.8,217.1 538.2,215.8 539.9,215.2 541.3,214.2 544.2,211.3 546.3,209.0 547.3,208.3 548.3,207.7 549.9,206.8 550.9,206.2 551.5,205.7 552.1,205.3 552.7,204.7 553.5,203.5 553.6,203.2 554.4,200.7 555.6,196.4 556.4,193.3 556.8,191.8 557.3,189.9 557.5,189.2 557.7,188.5 557.7,187.7 557.7,187.0 557.7,186.6 557.5,185.5 557.3,183.9 557.2,182.9 557.1,181.4 557.0,179.8 556.9,178.1 556.8,177.4 556.7,176.8 556.6,176.3 556.4,175.9 556.1,175.4 555.9,175.1 555.4,174.5 555.0,174.1 554.5,173.7 554.0,173.2 553.3,172.8 551.8,171.9 551.1,171.6 550.7,171.3" opacity="0.8"/>
+    <polyline points="785.5,135.5 771.4,129.3 769.9,128.7 768.4,128.3 766.9,127.9 765.4,127.7 763.6,127.6 762.2,127.5 748.7,128.3" opacity="0.8"/>
+    <polyline points="452.7,338.8 457.4,338.8 457.7,338.8 468.5,338.9 473.8,339.0 477.9,339.0 489.3,339.0 524.4,339.2 532.6,339.3 536.5,339.4 539.2,339.4 539.7,339.4 540.3,339.4 541.3,339.2 542.5,338.8 546.4,337.2 547.0,336.9 547.7,336.6 548.6,335.8 550.1,334.4 550.8,333.8 551.7,332.9 552.1,332.5 552.4,331.9 552.5,331.6 552.4,331.1 552.4,330.7 551.8,329.9 551.2,329.2 550.7,328.6 550.1,327.8 549.7,327.3 549.1,326.9 548.0,326.2 545.0,323.4 542.5,321.2 539.9,318.9 538.1,317.2 536.2,315.6 535.2,314.6 534.4,313.8 530.9,309.8 529.7,308.4 528.8,307.2 528.4,306.6 528.2,306.2 528.1,305.9 528.0,305.5 528.0,305.3 527.9,304.8 527.8,301.8 527.8,301.6 527.8,301.1 527.6,300.5 527.4,300.1 527.2,299.6 527.0,299.3 526.9,299.1 526.7,298.8 526.5,298.6 526.1,298.2 525.8,298.0 525.3,297.6 524.8,297.2 524.3,296.9 521.6,295.2 512.2,289.4 510.4,288.3 508.7,287.3 504.4,284.5 486.8,273.8 485.3,272.8 484.4,272.3 478.1,268.2 477.1,267.5 475.7,266.0 474.8,265.4 468.1,261.2 460.5,256.3 459.7,255.7 458.9,254.9 458.8,254.8 458.7,254.7 457.5,253.5 456.4,252.0 455.7,250.7 455.0,249.5 454.4,248.7 450.7,245.3 449.3,244.2 448.2,243.0 446.7,242.0 446.1,241.5 445.8,241.1 445.6,240.8 445.2,240.0 444.7,238.0 444.0,236.5 442.7,235.0 442.0,234.4 441.9,234.3 441.3,233.8 440.7,233.4 439.3,232.4 435.1,229.6 431.1,227.2 429.4,226.1 427.1,224.9 426.0,224.5 424.5,224.1 421.8,223.4 420.1,222.7 419.5,222.3 418.9,221.9 418.4,221.3 418.1,220.9 417.9,220.0 418.4,217.6 418.4,216.8 418.3,216.2 418.1,215.7 415.8,213.0 411.9,208.2 411.2,207.5 410.9,207.0 410.5,206.0 410.1,204.1 409.6,201.2 409.1,199.2 408.9,197.5 408.9,196.5 409.0,195.5 409.2,194.3 409.8,193.2 410.3,192.2 411.2,190.9 412.2,189.6 413.5,187.8 414.2,186.8 415.8,184.2 418.7,179.3 420.7,176.1 422.6,172.8 424.6,169.4 428.2,163.7 432.0,157.7 432.8,156.7 434.2,155.1 435.5,153.9 440.3,150.8 441.3,150.2 444.7,148.1 445.9,147.5 447.6,147.0 449.1,146.7 450.7,146.5 451.9,146.6 453.3,146.7 456.9,147.2 457.8,147.3 458.3,147.4 459.6,147.4 460.7,147.4 461.9,147.4 462.6,147.3 463.2,147.2 464.7,146.9 466.1,146.5 469.3,145.3 474.7,143.2 477.5,142.3 480.3,141.1 481.7,140.4 483.2,139.4 483.9,138.9 485.3,137.9 486.8,137.0 488.2,136.3 489.3,135.9 490.0,135.7 490.8,135.5 492.1,135.3 493.6,135.1 496.2,135.0 499.1,135.0 500.4,134.9 501.5,134.7 502.8,134.5 505.2,133.9 512.9,131.7 520.5,129.5 522.9,128.6 525.3,128.1 526.7,127.7 526.8,127.6 528.1,126.9 528.9,126.4 529.7,125.8 531.9,123.6 533.2,122.2 533.8,121.7 534.1,121.5 534.5,121.2 535.2,120.9 536.0,120.5 536.6,120.2 537.2,120.0 538.2,119.7 538.8,119.5 539.6,119.3 541.2,119.0 542.8,118.6 543.8,118.3 544.5,118.1 545.5,117.7 546.5,117.3 547.5,116.8 547.5,116.8 548.4,116.3 549.1,115.8 550.1,115.1 551.1,114.3 555.6,110.9 556.8,109.9 557.9,109.0 558.8,108.4 559.7,108.0 560.8,107.5 561.8,107.1 562.5,107.0 563.1,106.8 564.0,106.6 565.0,106.3 566.1,106.2 567.0,106.1 568.0,106.0 568.8,106.0 569.9,106.0 574.8,106.2 575.2,106.2 576.9,106.3 577.6,106.3 578.1,106.3 578.5,106.4 579.2,106.4 579.7,106.5 580.4,106.7 581.0,106.8 586.1,108.0" opacity="0.8"/>
+    <polyline points="547.6,169.3 548.0,169.6 548.3,170.0 548.5,170.2 548.9,170.8 549.2,171.4 549.4,171.8 549.5,172.4 549.6,173.1 549.6,174.1 549.8,174.9 549.9,175.6 550.1,176.1 552.0,180.3 552.7,182.0 552.9,182.5 553.2,182.9" opacity="0.8"/>
+    <polyline points="334.7,261.0 335.8,261.0 336.8,261.1 338.0,261.4 339.1,261.6 340.4,262.0 340.8,262.2 341.6,262.6 342.8,263.3 343.2,263.5 344.1,264.1 345.4,264.8 347.6,265.9" opacity="0.8"/>
+    <polyline points="459.5,265.6 459.1,265.2 458.8,264.9 458.5,264.6 458.1,264.1 457.8,263.8 457.5,263.6 456.8,263.0" opacity="0.8"/>
+    <polyline points="53.1,413.6 54.7,413.5 59.1,413.1 62.0,412.8 64.8,412.6 66.2,412.4 67.5,412.3 72.8,411.5 74.8,411.3 76.5,411.1 80.4,410.8 92.6,409.7" opacity="0.8"/>
+    <polyline points="668.2,148.9 644.3,150.6 640.7,151.1 636.3,152.0 633.5,152.8 630.7,153.8 628.6,154.6" opacity="0.8"/>
+    <polyline points="690.6,122.8 689.2,124.8 688.4,126.4 687.9,127.5 687.3,129.5 687.4,131.1 688.5,133.4 688.9,134.4 690.0,137.2 690.1,138.0 690.0,139.7 689.1,141.4" opacity="0.8"/>
+    <polyline points="417.5,265.4 418.5,265.0 419.2,264.7 420.2,264.2 423.0,262.9 430.6,259.2 431.4,258.9 432.0,258.6 432.6,258.4 433.4,258.2 434.1,258.1 434.9,257.9" opacity="0.8"/>
+    <polyline points="347.6,265.9 349.3,266.9 349.8,267.1 350.4,267.4 350.8,267.5 351.4,267.7 352.1,267.9 352.8,268.0 353.6,268.1 354.3,268.1 355.1,268.1" opacity="0.8"/>
+    <polyline points="456.6,263.6 456.8,263.8 457.8,264.5 459.3,265.7" opacity="0.8"/>
+    <polyline points="469.2,274.7 468.6,273.8 467.9,272.9 467.5,272.3 467.1,271.9 466.8,271.6 466.3,271.2 463.2,268.9 460.3,266.3 459.5,265.6" opacity="0.8"/>
+    <polyline points="459.3,265.7 459.7,266.0 463.0,268.9 464.9,270.3 465.8,271.0 466.5,271.5 466.8,271.8 467.0,272.1 467.3,272.4 467.5,272.7 467.8,273.1 468.4,273.8 471.1,278.0 471.5,278.7 472.0,279.2 472.4,279.6 472.9,280.0 476.8,282.2 478.8,283.3" opacity="0.8"/>
+    <polyline points="417.4,265.3 414.9,266.0 413.7,266.4 412.7,266.6 411.5,266.9 410.4,267.1 409.7,267.3 407.7,267.6 406.8,267.7 405.9,267.8 404.8,267.8 404.0,267.9 403.2,267.9 402.1,267.9 399.9,267.9 390.5,268.0" opacity="0.8"/>
+    <polyline points="456.7,263.6 455.3,262.5 454.0,261.4 453.4,261.1 452.5,260.5 451.8,260.1 451.4,259.8 451.0,259.6 450.2,259.3 449.2,258.9 447.9,258.5 447.1,258.3 446.3,258.1 445.8,258.0 444.6,257.8 443.5,257.6 442.3,257.5 441.5,257.5 440.5,257.5 438.9,257.5 437.6,257.5 437.1,257.6 435.9,257.6 434.8,257.8" opacity="0.8"/>
+    <polyline points="517.7,305.4 518.0,305.4 518.4,305.5 518.7,305.5 519.1,305.6 520.9,305.7" opacity="0.8"/>
+    <polyline points="516.0,304.8 515.8,304.7 515.5,304.6 515.2,304.5 514.9,304.3" opacity="0.8"/>
+  </g>
+
+  <!-- 지하철 역 -->
+  <g id="subway-stations">
+    <circle cx="394.3" cy="478.0" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="394.3" y="470.0" text-anchor="middle" font-size="10" fill="#374151">Ecoparc</text>
+    <circle cx="378.2" cy="498.0" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="378.2" y="490.0" text-anchor="middle" font-size="10" fill="#374151">ZAL | Riu Vell</text>
+    <circle cx="204.3" cy="474.2" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="204.3" y="466.2" text-anchor="middle" font-size="10" fill="#374151">El Prat Estació</text>
+    <circle cx="256.6" cy="481.7" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="256.6" y="473.7" text-anchor="middle" font-size="10" fill="#374151">Les Moreres</text>
+    <circle cx="289.7" cy="467.5" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="289.7" y="459.5" text-anchor="middle" font-size="10" fill="#374151">Mercabarna</text>
+    <circle cx="361.3" cy="337.1" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="361.3" y="329.1" text-anchor="middle" font-size="10" fill="#374151">Badal</text>
+    <circle cx="668.3" cy="149.0" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="668.3" y="141.0" text-anchor="middle" font-size="10" fill="#374151">Bon Pastor</text>
+    <circle cx="572.0" cy="215.6" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="572.0" y="207.6" text-anchor="middle" font-size="10" fill="#374151">Camp de l'Arpa</text>
+    <circle cx="209.9" cy="365.0" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="209.9" y="357.0" text-anchor="middle" font-size="10" fill="#374151">Can Boixeres</text>
+    <circle cx="513.0" cy="131.5" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="513.0" y="123.5" text-anchor="middle" font-size="10" fill="#374151">Canyelles</text>
+    <circle cx="318.7" cy="336.1" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="318.7" y="328.1" text-anchor="middle" font-size="10" fill="#374151">Collblanc</text>
+    <circle cx="573.1" cy="188.5" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="573.1" y="180.5" text-anchor="middle" font-size="10" fill="#374151">Congrés-Indians</text>
+    <circle cx="551.7" cy="332.8" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="551.7" y="324.8" text-anchor="middle" font-size="10" fill="#374151">Drassanes</text>
+    <circle cx="426.1" cy="310.9" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="426.1" y="302.9" text-anchor="middle" font-size="10" fill="#374151">Entença</text>
+    <circle cx="458.7" cy="254.7" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="458.7" y="246.7" text-anchor="middle" font-size="10" fill="#374151">Fontana</text>
+    <circle cx="160.1" cy="391.7" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="160.1" y="383.7" text-anchor="middle" font-size="10" fill="#374151">Gavarra</text>
+    <circle cx="488.3" cy="169.0" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="488.3" y="161.0" text-anchor="middle" font-size="10" fill="#374151">Horta</text>
+    <circle cx="448.7" cy="297.9" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="448.7" y="289.9" text-anchor="middle" font-size="10" fill="#374151">Hospital Clínic</text>
+    <circle cx="719.8" cy="132.9" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="719.8" y="124.9" text-anchor="middle" font-size="10" fill="#374151">Llefià</text>
+    <circle cx="553.8" cy="183.5" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="553.8" y="175.5" text-anchor="middle" font-size="10" fill="#374151">Maragall</text>
+    <circle cx="350.3" cy="298.6" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="350.3" y="290.6" text-anchor="middle" font-size="10" fill="#374151">Maria Cristina</text>
+    <circle cx="424.4" cy="169.4" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="424.4" y="161.4" text-anchor="middle" font-size="10" fill="#374151">Montbau</text>
+    <circle cx="440.0" cy="150.8" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="440.0" y="142.8" text-anchor="middle" font-size="10" fill="#374151">Mundet</text>
+    <circle cx="622.3" cy="168.8" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="622.3" y="160.8" text-anchor="middle" font-size="10" fill="#374151">Onze de Setembre</text>
+    <circle cx="410.7" cy="206.7" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="410.7" y="198.7" text-anchor="middle" font-size="10" fill="#374151">Penitents</text>
+    <circle cx="390.8" cy="317.0" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="390.8" y="309.0" text-anchor="middle" font-size="10" fill="#374151">Plaça del Centre</text>
+    <circle cx="273.0" cy="342.5" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="273.0" y="334.5" text-anchor="middle" font-size="10" fill="#374151">Pubilla Cases</text>
+    <circle cx="550.9" cy="114.1" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="550.9" y="106.1" text-anchor="middle" font-size="10" fill="#374151">Roquetes</text>
+    <circle cx="427.8" cy="328.1" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="427.8" y="320.1" text-anchor="middle" font-size="10" fill="#374151">Tarragona</text>
+    <circle cx="424.4" cy="224.2" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="424.4" y="216.2" text-anchor="middle" font-size="10" fill="#374151">Vallcarca</text>
+    <circle cx="474.4" cy="143.2" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="474.4" y="135.2" text-anchor="middle" font-size="10" fill="#374151">Valldaura</text>
+    <circle cx="520.1" cy="166.6" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="520.1" y="158.6" text-anchor="middle" font-size="10" fill="#374151">Vilapicina</text>
+    <circle cx="291.5" cy="310.1" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="291.5" y="302.1" text-anchor="middle" font-size="10" fill="#374151">Zona Universitària</text>
+    <circle cx="748.3" cy="128.5" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="748.3" y="120.5" text-anchor="middle" font-size="10" fill="#374151">la Salut</text>
+    <circle cx="369.2" cy="310.5" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="369.2" y="302.5" text-anchor="middle" font-size="10" fill="#374151">les Corts</text>
+    <circle cx="243.7" cy="373.1" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <circle cx="345.9" cy="264.7" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="345.9" y="256.7" text-anchor="middle" font-size="10" fill="#374151">Sarrià</text>
+    <circle cx="455.0" cy="262.1" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="455.0" y="254.1" text-anchor="middle" font-size="10" fill="#374151">Gràcia</text>
+    <circle cx="125.1" cy="393.8" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="125.1" y="385.8" text-anchor="middle" font-size="10" fill="#374151">Cornellà Centre</text>
+    <circle cx="531.3" cy="276.6" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="531.3" y="268.6" text-anchor="middle" font-size="10" fill="#374151">Girona</text>
+    <circle cx="503.6" cy="305.5" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="503.6" y="297.5" text-anchor="middle" font-size="10" fill="#374151">Universitat</text>
+    <circle cx="500.5" cy="322.5" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="500.5" y="314.5" text-anchor="middle" font-size="10" fill="#374151">Sant Antoni</text>
+    <circle cx="571.6" cy="285.7" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <circle cx="521.1" cy="260.9" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="521.1" y="252.9" text-anchor="middle" font-size="10" fill="#374151">Verdaguer</text>
+    <circle cx="486.8" cy="273.8" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="486.8" y="265.8" text-anchor="middle" font-size="10" fill="#374151">Diagonal</text>
+    <circle cx="478.8" cy="283.3" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="478.8" y="275.3" text-anchor="middle" font-size="10" fill="#374151">Provença</text>
+    <circle cx="273.4" cy="433.1" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <circle cx="444.0" cy="193.9" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <circle cx="647.0" cy="106.1" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="647.0" y="98.1" text-anchor="middle" font-size="10" fill="#374151">Baró de Viver</text>
+    <circle cx="288.5" cy="413.5" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <circle cx="254.3" cy="388.8" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="254.3" y="380.8" text-anchor="middle" font-size="10" fill="#374151">Avinguda Carrilet</text>
+    <circle cx="255.3" cy="361.5" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="255.3" y="353.5" text-anchor="middle" font-size="10" fill="#374151">Can Serra</text>
+    <circle cx="284.0" cy="359.6" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="284.0" y="351.6" text-anchor="middle" font-size="10" fill="#374151">Florida</text>
+    <circle cx="311.5" cy="359.3" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="311.5" y="351.3" text-anchor="middle" font-size="10" fill="#374151">Torrassa</text>
+    <circle cx="360.0" cy="358.1" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="360.0" y="350.1" text-anchor="middle" font-size="10" fill="#374151">Santa Eulàlia</text>
+    <circle cx="419.9" cy="338.1" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="419.9" y="330.1" text-anchor="middle" font-size="10" fill="#374151">Hostafrancs</text>
+    <circle cx="397.6" cy="337.7" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="397.6" y="329.7" text-anchor="middle" font-size="10" fill="#374151">Plaça de Sants</text>
+    <circle cx="443.8" cy="337.3" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="443.8" y="329.3" text-anchor="middle" font-size="10" fill="#374151">Espanya</text>
+    <circle cx="465.0" cy="325.7" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="465.0" y="317.7" text-anchor="middle" font-size="10" fill="#374151">Rocafort</text>
+    <circle cx="719.9" cy="156.5" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <circle cx="520.9" cy="305.3" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <circle cx="441.8" cy="339.6" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="441.8" y="331.6" text-anchor="middle" font-size="10" fill="#374151">Plaça Espanya</text>
+    <circle cx="286.1" cy="382.5" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="286.1" y="374.5" text-anchor="middle" font-size="10" fill="#374151">Sant Josep</text>
+    <circle cx="541.1" cy="146.3" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="541.1" y="138.3" text-anchor="middle" font-size="10" fill="#374151">Llucmajor-República</text>
+    <circle cx="596.3" cy="190.9" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="596.3" y="182.9" text-anchor="middle" font-size="10" fill="#374151">La Sagrera (L1)</text>
+    <circle cx="595.2" cy="197.7" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <circle cx="594.6" cy="195.3" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="594.6" y="187.3" text-anchor="middle" font-size="10" fill="#374151">La Sagrera (L5)</text>
+    <circle cx="547.7" cy="169.3" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="547.7" y="161.3" text-anchor="middle" font-size="10" fill="#374151">Virrei Amat</text>
+    <circle cx="543.3" cy="248.6" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="543.3" y="240.6" text-anchor="middle" font-size="10" fill="#374151">Sagrada Família</text>
+    <circle cx="548.1" cy="248.8" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="548.1" y="240.8" text-anchor="middle" font-size="10" fill="#374151">Sagrada Família</text>
+    <circle cx="723.3" cy="100.7" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="723.3" y="92.7" text-anchor="middle" font-size="10" fill="#374151">Fondo (L9)</text>
+    <circle cx="723.3" cy="101.0" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="723.3" y="93.0" text-anchor="middle" font-size="10" fill="#374151">Fondo (L1)</text>
+    <circle cx="582.6" cy="168.7" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="582.6" y="160.7" text-anchor="middle" font-size="10" fill="#374151">Fabra i Puig</text>
+    <circle cx="611.3" cy="127.2" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="611.3" y="119.2" text-anchor="middle" font-size="10" fill="#374151">Torras i Bages</text>
+    <circle cx="321.2" cy="264.9" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="321.2" y="256.9" text-anchor="middle" font-size="10" fill="#374151">Reina Elisenda</text>
+    <circle cx="527.8" cy="303.0" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="527.8" y="295.0" text-anchor="middle" font-size="10" fill="#374151">Catalunya</text>
+    <circle cx="690.5" cy="123.1" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="690.5" y="115.1" text-anchor="middle" font-size="10" fill="#374151">Can Peixauet</text>
+    <circle cx="642.7" cy="82.1" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="642.7" y="74.1" text-anchor="middle" font-size="10" fill="#374151">Can Zam</text>
+    <circle cx="671.5" cy="76.5" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="671.5" y="68.5" text-anchor="middle" font-size="10" fill="#374151">Singuerlín</text>
+    <circle cx="539.9" cy="319.0" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="539.9" y="311.0" text-anchor="middle" font-size="10" fill="#374151">Liceu</text>
+    <circle cx="699.0" cy="91.1" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="699.0" y="83.1" text-anchor="middle" font-size="10" fill="#374151">Església Major</text>
+    <circle cx="136.7" cy="536.6" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="136.7" y="528.6" text-anchor="middle" font-size="10" fill="#374151">Mas Blau</text>
+    <circle cx="193.2" cy="520.0" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="193.2" y="512.0" text-anchor="middle" font-size="10" fill="#374151">Parc Nou</text>
+    <circle cx="218.1" cy="504.0" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="218.1" y="496.0" text-anchor="middle" font-size="10" fill="#374151">Cèntric</text>
+    <circle cx="357.8" cy="442.1" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="357.8" y="434.1" text-anchor="middle" font-size="10" fill="#374151">Parc Logístic</text>
+    <circle cx="368.4" cy="410.5" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="368.4" y="402.5" text-anchor="middle" font-size="10" fill="#374151">Fira</text>
+    <circle cx="348.2" cy="393.9" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="348.2" y="385.9" text-anchor="middle" font-size="10" fill="#374151">Europa | Fira</text>
+    <circle cx="317.9" cy="383.2" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="317.9" y="375.2" text-anchor="middle" font-size="10" fill="#374151">Can Tries - Gornal</text>
+    <circle cx="316.5" cy="305.3" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="316.5" y="297.3" text-anchor="middle" font-size="10" fill="#374151">Palau Reial</text>
+    <circle cx="410.6" cy="318.7" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="410.6" y="310.7" text-anchor="middle" font-size="10" fill="#374151">Sants Estació</text>
+    <circle cx="489.3" cy="338.9" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="489.3" y="330.9" text-anchor="middle" font-size="10" fill="#374151">Poble Sec</text>
+    <circle cx="584.8" cy="107.5" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="584.8" y="99.5" text-anchor="middle" font-size="10" fill="#374151">Trinitat Nova</text>
+    <circle cx="446.7" cy="242.0" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="446.7" y="234.0" text-anchor="middle" font-size="10" fill="#374151">Lesseps</text>
+    <circle cx="565.7" cy="259.6" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="565.7" y="251.6" text-anchor="middle" font-size="10" fill="#374151">Monumental</text>
+    <circle cx="671.6" cy="186.5" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="671.6" y="178.5" text-anchor="middle" font-size="10" fill="#374151">La Pau</text>
+    <circle cx="578.1" cy="239.2" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="578.1" y="231.2" text-anchor="middle" font-size="10" fill="#374151">Encants</text>
+    <circle cx="688.4" cy="168.4" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="688.4" y="160.4" text-anchor="middle" font-size="10" fill="#374151">Verneda</text>
+    <circle cx="403.5" cy="361.0" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <circle cx="366.3" cy="381.8" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="366.3" y="373.8" text-anchor="middle" font-size="10" fill="#374151">Ildefons Cerdà</text>
+    <circle cx="313.3" cy="401.6" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="313.3" y="393.6" text-anchor="middle" font-size="10" fill="#374151">Gornal</text>
+  </g>
+</svg>
