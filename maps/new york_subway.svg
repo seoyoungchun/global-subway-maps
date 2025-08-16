@@ -1,238 +1,159 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="800" height="600" viewBox="0 0 800 600" 
-     xmlns="http://www.w3.org/2000/svg">
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
   <title>New York Subway Map</title>
   <rect width="100%" height="100%" fill="#f8f9fa"/>
-
-  <!-- 지하철 선로 -->
-  <g id="subway-lines" stroke="#2563eb" stroke-width="3" fill="none">
-    <polyline points="591.3,353.4 591.2,353.0 591.1,352.7 590.5,350.7 589.8,348.2 589.5,347.1 589.2,346.2 588.9,345.5 588.8,345.0 588.6,344.7 588.3,344.1 588.1,343.7 587.7,342.9 587.6,342.7 587.1,341.9 586.5,340.7 586.4,340.4 585.5,338.8" opacity="0.8"/>
-    <polyline points="589.5,272.7 588.5,275.4 588.4,275.6" opacity="0.8"/>
-    <polyline points="587.8,276.7 587.8,276.6 587.8,276.4 587.8,276.3 587.7,276.1 587.7,275.9 587.6,275.8 587.6,275.7 587.6,275.6 587.7,275.3" opacity="0.8"/>
-    <polyline points="587.8,276.3 587.7,276.1 587.4,275.7 587.3,275.5 587.2,275.4 587.2,275.2 588.1,272.9 588.2,272.8 588.3,272.7 588.6,272.5 588.8,272.4 588.9,272.4 589.1,272.4 589.4,272.4 589.6,272.5 590.8,272.7 591.0,272.8 591.1,272.9 591.2,273.0 591.3,273.2 591.3,273.4 590.7,274.9 590.6,275.0 590.5,275.1 590.4,275.2 590.2,275.4 589.9,275.6 589.8,275.7 589.3,275.9 589.0,276.0" opacity="0.8"/>
-    <polyline points="593.1,359.8 592.3,357.3 591.7,355.1" opacity="0.8"/>
-    <polyline points="188.8,250.0 188.7,250.0 188.6,250.0 188.5,250.0 188.5,250.0 188.4,250.0 188.3,250.0 188.3,249.9 188.0,249.9 187.5,249.8 187.4,249.8 187.3,249.7 187.2,249.7 187.1,249.7 187.1,249.7 187.0,249.7 187.0,249.7 186.9,249.7" opacity="0.8"/>
-    <polyline points="189.7,250.0 189.7,249.9 189.8,250.0 189.9,250.0 190.0,250.0 190.0,250.0 190.1,250.0 190.3,250.0 190.4,250.0 190.8,250.1 191.0,250.1 191.1,250.1 191.2,250.1 191.2,250.2 191.3,250.2 191.4,250.2 191.5,250.2 191.5,250.2 191.6,250.2 191.7,250.2 191.8,250.2 191.9,250.2 191.9,250.2 192.2,250.2" opacity="0.8"/>
-    <polyline points="191.5,251.3 191.5,251.3 191.6,251.3 191.6,251.3 191.7,251.2 191.9,251.2 192.0,251.2 192.0,251.1 192.1,251.1 192.1,251.1 192.2,251.1 192.4,251.1 194.2,251.0 194.7,250.9 194.8,250.9 194.9,250.9 195.0,250.9 195.0,250.9" opacity="0.8"/>
-    <polyline points="197.7,249.7 197.6,249.8 197.6,249.8 197.5,249.8 197.4,249.9 197.3,249.9 197.1,250.0 197.0,250.0 197.0,250.0 196.9,250.0 196.9,250.1 196.8,250.1 196.7,250.1 196.7,250.1 196.6,250.1 196.6,250.1 196.5,250.1 196.5,250.1 194.8,250.2" opacity="0.8"/>
-    <polyline points="192.8,250.9 192.7,250.9 192.7,250.9 192.6,250.9 192.5,250.9 192.5,250.9 192.4,250.9 192.3,250.9 192.2,250.9 192.2,250.9 192.1,250.9 192.0,250.9 191.9,250.8 191.9,250.8 191.8,250.8 191.7,250.7 191.7,250.7 191.6,250.7 191.5,250.6 191.5,250.5 191.3,250.4 191.3,250.4 191.3,250.4 191.2,250.3 191.2,250.3 191.1,250.3 191.1,250.2 191.0,250.2 191.0,250.2 190.9,250.2 190.8,250.1 190.7,250.1" opacity="0.8"/>
-    <polyline points="194.8,250.6 195.0,250.6 195.5,250.5 195.6,250.5 195.7,250.5 195.8,250.5 195.9,250.5 195.9,250.4 196.0,250.4 196.1,250.4 196.2,250.4 196.2,250.4" opacity="0.8"/>
-    <polyline points="193.7,251.4 193.6,251.4 193.6,251.4 193.5,251.4 193.5,251.5 193.4,251.5 193.1,251.7 192.9,251.8 192.6,251.9 192.5,252.0 192.1,252.1 192.1,252.1 192.0,252.2 192.0,252.2 191.9,252.2 191.8,252.2 191.8,252.2 191.7,252.2 191.6,252.2 191.6,252.2 191.5,252.2 191.5,252.2 191.4,252.2 191.3,252.2 191.3,252.1 191.2,252.1 191.2,252.1 191.1,252.0 191.1,252.0 191.1,252.0 191.1,252.0 191.1,251.9 191.0,251.9 191.0,251.9 191.0,251.8 191.0,251.8 191.0,251.8 191.0,251.7 191.0,251.7 191.0,251.7 191.1,251.6 191.1,251.6 191.1,251.6 191.1,251.6 191.1,251.5 191.2,251.5 191.2,251.5 191.3,251.4 191.5,251.3 191.6,251.2 191.6,251.2 191.6,251.1 191.7,251.1 191.7,251.1 191.7,251.1 191.7,251.1 191.8,251.1 191.8,251.1 191.8,251.0 191.9,251.0 191.9,251.0 192.0,251.0 192.0,251.0 192.1,251.0 192.2,251.0 192.2,251.0 192.4,251.0 192.8,250.9 195.0,250.8 195.2,250.8 195.3,250.7 195.4,250.7 195.5,250.7 195.6,250.7 195.7,250.7 195.8,250.7 195.8,250.6 195.9,250.6 195.9,250.6 196.3,250.5 196.5,250.4 196.6,250.3" opacity="0.8"/>
-    <polyline points="191.4,251.4 194.0,251.2 194.0,251.2 194.1,251.2 194.1,251.2 194.2,251.2 194.2,251.2 194.3,251.2" opacity="0.8"/>
-    <polyline points="194.2,251.2 194.1,251.2 194.0,251.3 194.0,251.3 193.8,251.3 193.4,251.4 193.4,251.4 193.3,251.4 193.3,251.4 193.2,251.4 193.2,251.4 191.2,251.6" opacity="0.8"/>
-    <polyline points="191.1,251.8 192.6,251.7 192.7,251.7 192.7,251.7 192.8,251.7 192.8,251.7 192.9,251.7 192.9,251.7 193.0,251.6 193.1,251.6 193.1,251.6 193.2,251.6 193.3,251.6 193.3,251.6 193.3,251.5 193.4,251.5" opacity="0.8"/>
-    <polyline points="192.1,250.0 191.6,250.1 191.6,250.1 191.5,250.1 191.4,250.1 191.4,250.1 191.3,250.1 191.2,250.1 191.2,250.1 191.1,250.1 190.7,250.0 190.5,250.0 190.4,249.9 190.3,249.9 190.3,249.9 190.2,249.9 190.1,249.9 190.0,249.9 189.7,250.0 189.5,250.0 188.8,250.0 188.8,250.0 188.4,250.0 188.4,250.0 188.0,250.0 187.9,250.0 186.6,250.1 185.2,250.1" opacity="0.8"/>
-    <polyline points="192.6,251.8 192.6,251.8 192.6,251.9 192.5,251.9 192.5,251.9 192.4,251.9 192.4,251.9 191.2,252.0" opacity="0.8"/>
-    <polyline points="185.7,249.7 187.2,249.6 187.5,249.6 187.9,249.6 188.2,249.6 188.4,249.6 188.7,249.6 189.0,249.6 189.2,249.6 190.1,249.6 190.5,249.6 190.8,249.6 191.0,249.6 191.3,249.6 191.4,249.6 191.7,249.6 192.0,249.6 192.5,249.5 193.0,249.5 193.3,249.5 193.9,249.4 198.5,249.1 198.7,249.1 199.1,249.0" opacity="0.8"/>
-    <polyline points="188.0,249.9 188.0,249.9 188.0,249.9 188.1,249.9 188.2,249.9 188.2,249.9 188.3,249.9 188.3,249.9 188.4,249.9 188.5,249.9 188.6,249.9 188.7,249.9 189.8,249.9 190.8,249.8 191.1,249.8 191.4,249.8 191.6,249.8 191.8,249.8 191.9,249.8 192.2,249.8 195.6,249.5 195.7,249.5 195.8,249.5 195.9,249.5 195.9,249.5 196.1,249.5 196.1,249.4 196.3,249.4 196.4,249.4 196.5,249.4 196.6,249.3 196.7,249.3 196.7,249.3" opacity="0.8"/>
-    <polyline points="271.9,251.4 272.4,251.6 273.2,251.8 273.6,251.8 273.9,251.9 274.6,252.1" opacity="0.8"/>
-    <polyline points="261.9,249.7 263.1,249.8 263.4,249.8 263.7,249.8 264.0,249.8 264.2,249.8 264.5,249.8 264.8,249.9 265.1,249.9 265.4,249.9" opacity="0.8"/>
-    <polyline points="439.6,248.3 439.8,248.3 440.3,248.2 440.7,248.0 441.1,247.9 441.6,247.7" opacity="0.8"/>
-    <polyline points="579.4,230.8 581.3,230.5" opacity="0.8"/>
-    <polyline points="581.3,230.6 581.9,230.5 582.4,230.4 582.9,230.3 584.5,229.8 585.1,229.6" opacity="0.8"/>
-    <polyline points="443.5,236.6 444.2,236.9" opacity="0.8"/>
-    <polyline points="682.0,405.1 680.1,406.0 680.0,406.1 679.3,406.4 679.3,406.4 678.5,406.8 678.0,407.0" opacity="0.8"/>
-    <polyline points="611.8,421.9 612.1,421.6 612.4,421.4 612.6,421.3 612.9,421.1 613.2,421.0 613.6,420.9 614.0,420.8 614.4,420.7 614.7,420.7 615.0,420.6 615.4,420.6 615.8,420.6 616.2,420.7 616.4,420.7 616.6,420.7" opacity="0.8"/>
-    <polyline points="588.2,275.9 588.3,275.7 588.4,275.6 588.6,275.3 588.8,275.1 588.8,275.0 589.7,272.8" opacity="0.8"/>
-    <polyline points="588.9,276.0 589.2,275.8 589.3,275.7 589.4,275.5 589.6,275.2 589.8,274.7 590.6,272.7" opacity="0.8"/>
-    <polyline points="589.8,275.5 590.0,275.3 590.0,275.3 590.1,275.1 590.2,275.0 590.2,274.9 590.3,274.8 590.9,273.1 591.0,272.9" opacity="0.8"/>
-    <polyline points="588.7,275.8 588.8,275.6 588.8,275.5 589.2,274.6 590.0,272.6" opacity="0.8"/>
-    <polyline points="588.5,273.0 588.5,272.8 588.6,272.7 588.7,272.6 588.9,272.6 589.0,272.5 589.2,272.5 589.4,272.5 589.6,272.5" opacity="0.8"/>
-    <polyline points="587.8,276.7 587.8,276.7 587.9,276.4 588.1,276.0 588.1,275.9 588.6,274.7" opacity="0.8"/>
-    <polyline points="599.9,296.9 598.9,296.3 598.2,295.7" opacity="0.8"/>
-    <polyline points="494.7,318.4 494.6,318.2 494.5,318.0 494.5,318.0" opacity="0.8"/>
-    <polyline points="578.4,432.0 581.2,431.3 581.5,431.2 581.6,431.2 581.9,431.2 582.2,431.1 582.5,431.1 582.8,431.1 583.1,431.0 583.4,431.0 583.9,431.0 584.2,430.9 584.4,430.9" opacity="0.8"/>
-    <polyline points="582.8,431.1 582.5,431.1 581.8,431.3 581.3,431.5 578.4,432.2" opacity="0.8"/>
-    <polyline points="578.5,432.2 581.7,431.4 582.8,431.1 583.1,431.0" opacity="0.8"/>
-    <polyline points="578.5,432.2 580.5,431.7 582.2,431.3 583.2,431.1 583.4,431.0" opacity="0.8"/>
-    <polyline points="511.0,286.6 511.0,286.5 511.2,286.4 511.4,286.1 511.5,286.1 511.6,286.0 511.7,285.8 511.8,285.8 511.8,285.7 511.9,285.7 511.9,285.6 511.9,285.5 512.0,285.4 512.0,285.3" opacity="0.8"/>
-    <polyline points="281.2,253.6 281.5,253.7" opacity="0.8"/>
-    <polyline points="217.3,247.4 218.4,247.4 219.6,247.4 221.9,247.5 222.4,247.5" opacity="0.8"/>
-    <polyline points="280.3,364.6 280.1,365.3 280.1,365.4 280.0,365.7 280.0,365.8 280.0,365.9 280.0,366.1 280.0,366.3 280.1,366.4 280.1,366.6 280.2,366.8 280.2,366.8 280.3,367.0 280.4,367.4" opacity="0.8"/>
-    <polyline points="281.7,360.4 281.6,360.5 281.4,360.6 281.4,360.7 281.2,360.8 280.8,360.8 280.7,360.9 280.5,360.9 280.2,360.9 280.0,360.8 279.9,360.8 279.7,360.7 279.6,360.7" opacity="0.8"/>
-    <polyline points="496.6,82.5 498.8,83.0 498.9,83.1 499.0,83.1 499.1,83.2 499.2,83.2 499.2,83.2 499.3,83.2 499.3,83.3" opacity="0.8"/>
-    <polyline points="499.4,83.5 499.4,83.4 499.4,83.3 499.3,83.3 499.3,83.2 499.2,83.2 499.2,83.1 499.1,83.1 499.1,83.1 499.0,83.1 496.5,82.4" opacity="0.8"/>
-    <polyline points="496.5,82.4 498.8,83.0 499.0,83.0 499.2,83.1" opacity="0.8"/>
-    <polyline points="499.3,83.2 499.2,83.1 499.2,83.1 498.9,83.0 498.8,82.9 496.5,82.3" opacity="0.8"/>
-    <polyline points="499.4,83.4 499.4,83.3 499.4,83.2 499.3,83.2 499.2,83.1 499.2,83.0 499.1,83.0 499.0,82.9 496.5,82.3" opacity="0.8"/>
-    <polyline points="499.4,83.2 499.4,83.2 499.4,83.1 499.3,83.0 499.2,83.0 499.2,82.9 499.1,82.8 498.9,82.8 496.5,82.2" opacity="0.8"/>
+  <g stroke="#2563eb" stroke-width="3" fill="none">
+    <polyline points="591.3,353.4 591.2,353.0 591.1,352.7 590.5,350.7 589.8,348.2 589.5,347.1 589.2,346.2 588.9,345.5 588.8,345.0 588.6,344.7 588.3,344.1 588.1,343.7 587.7,342.9 587.6,342.7 587.1,341.9 586.5,340.7 586.4,340.4 585.5,338.8"/>
+    <polyline points="589.5,272.7 588.5,275.4 588.4,275.6"/>
+    <polyline points="587.8,276.7 587.8,276.6 587.8,276.4 587.8,276.3 587.7,276.1 587.7,275.9 587.6,275.8 587.6,275.7 587.6,275.6 587.7,275.3"/>
+    <polyline points="587.8,276.3 587.7,276.1 587.4,275.7 587.3,275.5 587.2,275.4 587.2,275.2 588.1,272.9 588.2,272.8 588.3,272.7 588.6,272.5 588.8,272.4 588.9,272.4 589.1,272.4 589.4,272.4 589.6,272.5 590.8,272.7 591.0,272.8 591.1,272.9 591.2,273.0 591.3,273.2 591.3,273.4 590.7,274.9 590.6,275.0 590.5,275.1 590.4,275.2 590.2,275.4 589.9,275.6 589.8,275.7 589.3,275.9 589.0,276.0"/>
+    <polyline points="593.1,359.8 592.3,357.3 591.7,355.1"/>
+    <polyline points="188.8,250.0 188.7,250.0 188.6,250.0 188.5,250.0 188.5,250.0 188.4,250.0 188.3,250.0 188.3,249.9 188.0,249.9 187.5,249.8 187.4,249.8 187.3,249.7 187.2,249.7 187.1,249.7 187.1,249.7 187.0,249.7 187.0,249.7 186.9,249.7"/>
+    <polyline points="189.7,250.0 189.7,249.9 189.8,250.0 189.9,250.0 190.0,250.0 190.0,250.0 190.1,250.0 190.3,250.0 190.4,250.0 190.8,250.1 191.0,250.1 191.1,250.1 191.2,250.1 191.2,250.2 191.3,250.2 191.4,250.2 191.5,250.2 191.5,250.2 191.6,250.2 191.7,250.2 191.8,250.2 191.9,250.2 191.9,250.2 192.2,250.2"/>
+    <polyline points="191.5,251.3 191.5,251.3 191.6,251.3 191.6,251.3 191.7,251.2 191.9,251.2 192.0,251.2 192.0,251.1 192.1,251.1 192.1,251.1 192.2,251.1 192.4,251.1 194.2,251.0 194.7,250.9 194.8,250.9 194.9,250.9 195.0,250.9 195.0,250.9"/>
+    <polyline points="197.7,249.7 197.6,249.8 197.6,249.8 197.5,249.8 197.4,249.9 197.3,249.9 197.1,250.0 197.0,250.0 197.0,250.0 196.9,250.0 196.9,250.1 196.8,250.1 196.7,250.1 196.7,250.1 196.6,250.1 196.6,250.1 196.5,250.1 196.5,250.1 194.8,250.2"/>
+    <polyline points="192.8,250.9 192.7,250.9 192.7,250.9 192.6,250.9 192.5,250.9 192.5,250.9 192.4,250.9 192.3,250.9 192.2,250.9 192.2,250.9 192.1,250.9 192.0,250.9 191.9,250.8 191.9,250.8 191.8,250.8 191.7,250.7 191.7,250.7 191.6,250.7 191.5,250.6 191.5,250.5 191.3,250.4 191.3,250.4 191.3,250.4 191.2,250.3 191.2,250.3 191.1,250.3 191.1,250.2 191.0,250.2 191.0,250.2 190.9,250.2 190.8,250.1 190.7,250.1"/>
+    <polyline points="194.8,250.6 195.0,250.6 195.5,250.5 195.6,250.5 195.7,250.5 195.8,250.5 195.9,250.5 195.9,250.4 196.0,250.4 196.1,250.4 196.2,250.4 196.2,250.4"/>
+    <polyline points="193.7,251.4 193.6,251.4 193.6,251.4 193.5,251.4 193.5,251.5 193.4,251.5 193.1,251.7 192.9,251.8 192.6,251.9 192.5,252.0 192.1,252.1 192.1,252.1 192.0,252.2 192.0,252.2 191.9,252.2 191.8,252.2 191.8,252.2 191.7,252.2 191.6,252.2 191.6,252.2 191.5,252.2 191.5,252.2 191.4,252.2 191.3,252.2 191.3,252.1 191.2,252.1 191.2,252.1 191.1,252.0 191.1,252.0 191.1,252.0 191.1,252.0 191.1,251.9 191.0,251.9 191.0,251.9 191.0,251.8 191.0,251.8 191.0,251.8 191.0,251.7 191.0,251.7 191.0,251.7 191.1,251.6 191.1,251.6 191.1,251.6 191.1,251.6 191.1,251.5 191.2,251.5 191.2,251.5 191.3,251.4 191.5,251.3 191.6,251.2 191.6,251.2 191.6,251.1 191.7,251.1 191.7,251.1 191.7,251.1 191.7,251.1 191.8,251.1 191.8,251.1 191.8,251.0 191.9,251.0 191.9,251.0 192.0,251.0 192.0,251.0 192.1,251.0 192.2,251.0 192.2,251.0 192.4,251.0 192.8,250.9 195.0,250.8 195.2,250.8 195.3,250.7 195.4,250.7 195.5,250.7 195.6,250.7 195.7,250.7 195.8,250.7 195.8,250.6 195.9,250.6 195.9,250.6 196.3,250.5 196.5,250.4 196.6,250.3"/>
+    <polyline points="191.4,251.4 194.0,251.2 194.0,251.2 194.1,251.2 194.1,251.2 194.2,251.2 194.2,251.2 194.3,251.2"/>
+    <polyline points="194.2,251.2 194.1,251.2 194.0,251.3 194.0,251.3 193.8,251.3 193.4,251.4 193.4,251.4 193.3,251.4 193.3,251.4 193.2,251.4 193.2,251.4 191.2,251.6"/>
+    <polyline points="191.1,251.8 192.6,251.7 192.7,251.7 192.7,251.7 192.8,251.7 192.8,251.7 192.9,251.7 192.9,251.7 193.0,251.6 193.1,251.6 193.1,251.6 193.2,251.6 193.3,251.6 193.3,251.6 193.3,251.5 193.4,251.5"/>
+    <polyline points="192.1,250.0 191.6,250.1 191.6,250.1 191.5,250.1 191.4,250.1 191.4,250.1 191.3,250.1 191.2,250.1 191.2,250.1 191.1,250.1 190.7,250.0 190.5,250.0 190.4,249.9 190.3,249.9 190.3,249.9 190.2,249.9 190.1,249.9 190.0,249.9 189.7,250.0 189.5,250.0 188.8,250.0 188.8,250.0 188.4,250.0 188.4,250.0 188.0,250.0 187.9,250.0 186.6,250.1 185.2,250.1"/>
+    <polyline points="192.6,251.8 192.6,251.8 192.6,251.9 192.5,251.9 192.5,251.9 192.4,251.9 192.4,251.9 191.2,252.0"/>
+    <polyline points="185.7,249.7 187.2,249.6 187.5,249.6 187.9,249.6 188.2,249.6 188.4,249.6 188.7,249.6 189.0,249.6 189.2,249.6 190.1,249.6 190.5,249.6 190.8,249.6 191.0,249.6 191.3,249.6 191.4,249.6 191.7,249.6 192.0,249.6 192.5,249.5 193.0,249.5 193.3,249.5 193.9,249.4 198.5,249.1 198.7,249.1 199.1,249.0"/>
+    <polyline points="188.0,249.9 188.0,249.9 188.0,249.9 188.1,249.9 188.2,249.9 188.2,249.9 188.3,249.9 188.3,249.9 188.4,249.9 188.5,249.9 188.6,249.9 188.7,249.9 189.8,249.9 190.8,249.8 191.1,249.8 191.4,249.8 191.6,249.8 191.8,249.8 191.9,249.8 192.2,249.8 195.6,249.5 195.7,249.5 195.8,249.5 195.9,249.5 195.9,249.5 196.1,249.5 196.1,249.4 196.3,249.4 196.4,249.4 196.5,249.4 196.6,249.3 196.7,249.3 196.7,249.3"/>
+    <polyline points="271.9,251.4 272.4,251.6 273.2,251.8 273.6,251.8 273.9,251.9 274.6,252.1"/>
+    <polyline points="261.9,249.7 263.1,249.8 263.4,249.8 263.7,249.8 264.0,249.8 264.2,249.8 264.5,249.8 264.8,249.9 265.1,249.9 265.4,249.9"/>
+    <polyline points="439.6,248.3 439.8,248.3 440.3,248.2 440.7,248.0 441.1,247.9 441.6,247.7"/>
+    <polyline points="579.4,230.8 581.3,230.5"/>
+    <polyline points="581.3,230.6 581.9,230.5 582.4,230.4 582.9,230.3 584.5,229.8 585.1,229.6"/>
+    <polyline points="443.5,236.6 444.2,236.9"/>
+    <polyline points="682.0,405.1 680.1,406.0 680.0,406.1 679.3,406.4 679.3,406.4 678.5,406.8 678.0,407.0"/>
+    <polyline points="611.8,421.9 612.1,421.6 612.4,421.4 612.6,421.3 612.9,421.1 613.2,421.0 613.6,420.9 614.0,420.8 614.4,420.7 614.7,420.7 615.0,420.6 615.4,420.6 615.8,420.6 616.2,420.7 616.4,420.7 616.6,420.7"/>
+    <polyline points="588.2,275.9 588.3,275.7 588.4,275.6 588.6,275.3 588.8,275.1 588.8,275.0 589.7,272.8"/>
+    <polyline points="588.9,276.0 589.2,275.8 589.3,275.7 589.4,275.5 589.6,275.2 589.8,274.7 590.6,272.7"/>
+    <polyline points="589.8,275.5 590.0,275.3 590.0,275.3 590.1,275.1 590.2,275.0 590.2,274.9 590.3,274.8 590.9,273.1 591.0,272.9"/>
+    <polyline points="588.7,275.8 588.8,275.6 588.8,275.5 589.2,274.6 590.0,272.6"/>
+    <polyline points="588.5,273.0 588.5,272.8 588.6,272.7 588.7,272.6 588.9,272.6 589.0,272.5 589.2,272.5 589.4,272.5 589.6,272.5"/>
+    <polyline points="587.8,276.7 587.8,276.7 587.9,276.4 588.1,276.0 588.1,275.9 588.6,274.7"/>
+    <polyline points="599.9,296.9 598.9,296.3 598.2,295.7"/>
+    <polyline points="494.7,318.4 494.6,318.2 494.5,318.0 494.5,318.0"/>
+    <polyline points="578.4,432.0 581.2,431.3 581.5,431.2 581.6,431.2 581.9,431.2 582.2,431.1 582.5,431.1 582.8,431.1 583.1,431.0 583.4,431.0 583.9,431.0 584.2,430.9 584.4,430.9"/>
+    <polyline points="582.8,431.1 582.5,431.1 581.8,431.3 581.3,431.5 578.4,432.2"/>
+    <polyline points="578.5,432.2 581.7,431.4 582.8,431.1 583.1,431.0"/>
+    <polyline points="578.5,432.2 580.5,431.7 582.2,431.3 583.2,431.1 583.4,431.0"/>
+    <polyline points="511.0,286.6 511.0,286.5 511.2,286.4 511.4,286.1 511.5,286.1 511.6,286.0 511.7,285.8 511.8,285.8 511.8,285.7 511.9,285.7 511.9,285.6 511.9,285.5 512.0,285.4 512.0,285.3"/>
+    <polyline points="281.2,253.6 281.5,253.7"/>
+    <polyline points="217.3,247.4 218.4,247.4 219.6,247.4 221.9,247.5 222.4,247.5"/>
+    <polyline points="280.3,364.6 280.1,365.3 280.1,365.4 280.0,365.7 280.0,365.8 280.0,365.9 280.0,366.1 280.0,366.3 280.1,366.4 280.1,366.6 280.2,366.8 280.2,366.8 280.3,367.0 280.4,367.4"/>
+    <polyline points="281.7,360.4 281.6,360.5 281.4,360.6 281.4,360.7 281.2,360.8 280.8,360.8 280.7,360.9 280.5,360.9 280.2,360.9 280.0,360.8 279.9,360.8 279.7,360.7 279.6,360.7"/>
+    <polyline points="496.6,82.5 498.8,83.0 498.9,83.1 499.0,83.1 499.1,83.2 499.2,83.2 499.2,83.2 499.3,83.2 499.3,83.3"/>
+    <polyline points="499.4,83.5 499.4,83.4 499.4,83.3 499.3,83.3 499.3,83.2 499.2,83.2 499.2,83.1 499.1,83.1 499.1,83.1 499.0,83.1 496.5,82.4"/>
+    <polyline points="496.5,82.4 498.8,83.0 499.0,83.0 499.2,83.1"/>
+    <polyline points="499.3,83.2 499.2,83.1 499.2,83.1 498.9,83.0 498.8,82.9 496.5,82.3"/>
+    <polyline points="499.4,83.4 499.4,83.3 499.4,83.2 499.3,83.2 499.2,83.1 499.2,83.0 499.1,83.0 499.0,82.9 496.5,82.3"/>
+    <polyline points="499.4,83.2 499.4,83.2 499.4,83.1 499.3,83.0 499.2,83.0 499.2,82.9 499.1,82.8 498.9,82.8 496.5,82.2"/>
   </g>
-
-  <!-- 지하철 역 -->
-  <g id="subway-stations">
-    <circle cx="494.7" cy="116.6" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
-    <text x="494.7" y="108.6" text-anchor="middle" font-size="10" fill="#374151">183rd Street</text>
-    <circle cx="282.4" cy="360.3" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
-    <text x="282.4" y="352.3" text-anchor="middle" font-size="10" fill="#374151">St. George</text>
-    <circle cx="185.0" cy="465.5" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
-    <text x="185.0" y="457.5" text-anchor="middle" font-size="10" fill="#374151">Great Kills</text>
-    <circle cx="167.8" cy="473.4" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
-    <text x="167.8" y="465.4" text-anchor="middle" font-size="10" fill="#374151">Eltingville</text>
-    <circle cx="151.6" cy="477.8" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
-    <text x="151.6" y="469.8" text-anchor="middle" font-size="10" fill="#374151">Annadale</text>
-    <circle cx="134.0" cy="485.7" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
-    <text x="134.0" y="477.7" text-anchor="middle" font-size="10" fill="#374151">Huguenot</text>
-    <circle cx="123.8" cy="494.9" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
-    <text x="123.8" y="486.9" text-anchor="middle" font-size="10" fill="#374151">Prince’s Bay</text>
-    <circle cx="101.9" cy="498.3" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
-    <text x="101.9" y="490.3" text-anchor="middle" font-size="10" fill="#374151">Pleasant Plains</text>
-    <circle cx="58.8" cy="509.4" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
-    <circle cx="415.9" cy="310.1" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
-    <circle cx="397.1" cy="307.2" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
-    <text x="397.1" y="299.2" text-anchor="middle" font-size="10" fill="#374151">DeKalb Avenue</text>
-    <circle cx="393.1" cy="307.4" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
-    <text x="393.1" y="299.4" text-anchor="middle" font-size="10" fill="#374151">Hoyt Street</text>
-    <circle cx="390.9" cy="295.0" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
-    <text x="390.9" y="287.0" text-anchor="middle" font-size="10" fill="#374151">York Street</text>
-    <circle cx="409.4" cy="189.3" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
-    <text x="409.4" y="181.3" text-anchor="middle" font-size="10" fill="#374151">96th Street</text>
-    <circle cx="567.6" cy="234.5" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
-    <text x="567.6" y="226.5" text-anchor="middle" font-size="10" fill="#374151">Mets–Willets Point</text>
-    <circle cx="495.7" cy="244.7" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
-    <circle cx="442.6" cy="243.8" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
-    <text x="442.6" y="235.8" text-anchor="middle" font-size="10" fill="#374151">Court Square</text>
-    <circle cx="460.4" cy="245.9" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
-    <circle cx="469.0" cy="246.8" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
-    <circle cx="476.7" cy="247.6" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
-    <circle cx="437.3" cy="246.5" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
-    <text x="437.3" y="238.5" text-anchor="middle" font-size="10" fill="#374151">21st Street</text>
-    <circle cx="577.6" cy="317.4" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
-    <text x="577.6" y="309.4" text-anchor="middle" font-size="10" fill="#374151">104th Street</text>
-    <circle cx="592.4" cy="312.6" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
-    <circle cx="510.4" cy="243.6" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
-    <circle cx="537.8" cy="240.7" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
-    <text x="537.8" y="232.7" text-anchor="middle" font-size="10" fill="#374151">Junction Boulevard</text>
-    <circle cx="512.6" cy="283.5" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
-    <circle cx="504.7" cy="289.5" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
-    <text x="504.7" y="281.5" text-anchor="middle" font-size="10" fill="#374151">Fresh Pond Road</text>
-    <circle cx="495.7" cy="291.6" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
-    <text x="495.7" y="283.6" text-anchor="middle" font-size="10" fill="#374151">Forest Avenue</text>
-    <circle cx="489.9" cy="293.4" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
-    <text x="489.9" y="285.4" text-anchor="middle" font-size="10" fill="#374151">Seneca Avenue</text>
-    <circle cx="295.6" cy="260.4" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
-    <circle cx="395.5" cy="322.4" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
-    <text x="395.5" y="314.4" text-anchor="middle" font-size="10" fill="#374151">Union Street</text>
-    <circle cx="87.5" cy="501.5" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
-    <text x="87.5" y="493.5" text-anchor="middle" font-size="10" fill="#374151">Richmond Valley</text>
-    <circle cx="203.0" cy="459.7" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
-    <text x="203.0" y="451.7" text-anchor="middle" font-size="10" fill="#374151">Bay Terrace</text>
-    <circle cx="356.7" cy="291.5" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
-    <text x="356.7" y="283.5" text-anchor="middle" font-size="10" fill="#374151">Bowling Green</text>
-    <circle cx="357.9" cy="294.6" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
-    <text x="357.9" y="286.6" text-anchor="middle" font-size="10" fill="#374151">South Ferry</text>
-    <circle cx="448.5" cy="319.4" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
-    <circle cx="436.6" cy="318.8" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
-    <text x="436.6" y="310.8" text-anchor="middle" font-size="10" fill="#374151">Nostrand Avenue</text>
-    <circle cx="460.9" cy="320.1" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
-    <text x="460.9" y="312.1" text-anchor="middle" font-size="10" fill="#374151">Utica Avenue</text>
-    <circle cx="427.0" cy="329.9" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
-    <text x="427.0" y="321.9" text-anchor="middle" font-size="10" fill="#374151">Franklin Avenue</text>
-    <circle cx="436.6" cy="289.7" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
-    <text x="436.6" y="281.7" text-anchor="middle" font-size="10" fill="#374151">Broadway</text>
-    <circle cx="430.0" cy="206.3" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
-    <text x="430.0" y="198.3" text-anchor="middle" font-size="10" fill="#374151">86th Street</text>
-    <circle cx="448.6" cy="283.0" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
-    <text x="448.6" y="275.0" text-anchor="middle" font-size="10" fill="#374151">Grand Street</text>
-    <circle cx="449.7" cy="287.9" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
-    <text x="449.7" y="279.9" text-anchor="middle" font-size="10" fill="#374151">Montrose Avenue</text>
-    <circle cx="436.6" cy="296.2" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
-    <text x="436.6" y="288.2" text-anchor="middle" font-size="10" fill="#374151">Flushing Avenue</text>
-    <circle cx="356.8" cy="359.0" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
-    <text x="356.8" y="351.0" text-anchor="middle" font-size="10" fill="#374151">53rd Street</text>
-    <circle cx="424.3" cy="309.2" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
-    <text x="424.3" y="301.2" text-anchor="middle" font-size="10" fill="#374151">Classon Avenue</text>
-    <circle cx="408.9" cy="322.7" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
-    <text x="408.9" y="314.7" text-anchor="middle" font-size="10" fill="#374151">7th Avenue</text>
-    <circle cx="394.3" cy="247.4" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
-    <text x="394.3" y="239.4" text-anchor="middle" font-size="10" fill="#374151">28th Street</text>
-    <circle cx="386.0" cy="256.0" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
-    <circle cx="388.5" cy="244.9" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
-    <text x="388.5" y="236.9" text-anchor="middle" font-size="10" fill="#374151">28th Street</text>
-    <circle cx="511.1" cy="159.3" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
-    <text x="511.1" y="151.3" text-anchor="middle" font-size="10" fill="#374151">Hunts Point Avenue</text>
-    <circle cx="406.3" cy="312.2" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
-    <text x="406.3" y="304.2" text-anchor="middle" font-size="10" fill="#374151">Lafayette Avenue</text>
-    <circle cx="417.1" cy="315.6" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
-    <circle cx="372.2" cy="401.3" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
-    <text x="372.2" y="393.3" text-anchor="middle" font-size="10" fill="#374151">18th Avenue</text>
-    <circle cx="380.8" cy="369.2" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
-    <text x="380.8" y="361.2" text-anchor="middle" font-size="10" fill="#374151">50th Street</text>
-    <circle cx="383.3" cy="335.9" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
-    <text x="383.3" y="327.9" text-anchor="middle" font-size="10" fill="#374151">Prospect Avenue</text>
-    <circle cx="404.7" cy="352.5" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
-    <circle cx="496.5" cy="338.1" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
-    <text x="496.5" y="330.1" text-anchor="middle" font-size="10" fill="#374151">Junius Street</text>
-    <circle cx="486.1" cy="321.3" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
-    <text x="486.1" y="313.3" text-anchor="middle" font-size="10" fill="#374151">Rockaway Avenue</text>
-    <circle cx="534.7" cy="324.5" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
-    <text x="534.7" y="316.5" text-anchor="middle" font-size="10" fill="#374151">Euclid Avenue</text>
-    <circle cx="374.5" cy="276.0" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
-    <text x="374.5" y="268.0" text-anchor="middle" font-size="10" fill="#374151">Canal Street</text>
-    <circle cx="379.1" cy="267.8" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
-    <circle cx="458.6" cy="289.5" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
-    <text x="458.6" y="281.5" text-anchor="middle" font-size="10" fill="#374151">Morgan Avenue</text>
-    <circle cx="397.0" cy="235.5" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
-    <text x="397.0" y="227.5" text-anchor="middle" font-size="10" fill="#374151">5th Avenue</text>
-    <circle cx="403.3" cy="237.8" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
-    <circle cx="408.5" cy="222.9" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
-    <circle cx="483.9" cy="246.4" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
-    <circle cx="611.4" cy="290.4" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
-    <text x="611.4" y="282.4" text-anchor="middle" font-size="10" fill="#374151">Sutphin Boulevard</text>
-    <circle cx="454.3" cy="156.0" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
-    <text x="454.3" y="148.0" text-anchor="middle" font-size="10" fill="#374151">Harlem–148th Street</text>
-    <circle cx="449.3" cy="141.0" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
-    <circle cx="498.6" cy="119.2" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
-    <text x="498.6" y="111.2" text-anchor="middle" font-size="10" fill="#374151">182nd–183rd Streets</text>
-    <circle cx="502.4" cy="113.3" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
-    <text x="502.4" y="105.3" text-anchor="middle" font-size="10" fill="#374151">Fordham Road</text>
-    <circle cx="569.9" cy="318.8" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
-    <text x="569.9" y="310.8" text-anchor="middle" font-size="10" fill="#374151">Rockaway Boulevard</text>
-    <circle cx="382.1" cy="408.1" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
-    <text x="382.1" y="400.1" text-anchor="middle" font-size="10" fill="#374151">Bay Parkway</text>
-    <circle cx="357.0" cy="288.2" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
-    <text x="357.0" y="280.2" text-anchor="middle" font-size="10" fill="#374151">Rector Street</text>
-    <circle cx="359.1" cy="283.6" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
-    <text x="359.1" y="275.6" text-anchor="middle" font-size="10" fill="#374151">WTC Cortlandt</text>
-    <circle cx="362.8" cy="279.0" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
-    <text x="362.8" y="271.0" text-anchor="middle" font-size="10" fill="#374151">Chambers Street</text>
-    <circle cx="362.8" cy="288.9" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
-    <text x="362.8" y="280.9" text-anchor="middle" font-size="10" fill="#374151">Wall Street</text>
-    <circle cx="386.6" cy="281.0" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
-    <text x="386.6" y="273.0" text-anchor="middle" font-size="10" fill="#374151">East Broadway</text>
-    <circle cx="382.1" cy="276.0" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
-    <text x="382.1" y="268.0" text-anchor="middle" font-size="10" fill="#374151">Grand Street</text>
-    <circle cx="382.2" cy="273.6" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
-    <text x="382.2" y="265.6" text-anchor="middle" font-size="10" fill="#374151">Bowery</text>
-    <circle cx="360.5" cy="289.2" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
-    <text x="360.5" y="281.2" text-anchor="middle" font-size="10" fill="#374151">Broad Street</text>
-    <circle cx="373.1" cy="260.6" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
-    <circle cx="386.9" cy="270.0" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
-    <text x="386.9" y="262.0" text-anchor="middle" font-size="10" fill="#374151">2nd Avenue</text>
-    <circle cx="390.1" cy="275.7" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
-    <text x="390.1" y="267.7" text-anchor="middle" font-size="10" fill="#374151">Essex Street</text>
-    <circle cx="416.8" cy="223.1" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
-    <circle cx="393.7" cy="235.0" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
-    <circle cx="415.1" cy="225.3" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
-    <circle cx="409.4" cy="231.7" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
-    <text x="409.4" y="223.7" text-anchor="middle" font-size="10" fill="#374151">51st Street</text>
-    <circle cx="404.4" cy="227.8" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
-    <circle cx="397.3" cy="225.2" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
-    <text x="397.3" y="217.2" text-anchor="middle" font-size="10" fill="#374151">7th Avenue</text>
-    <circle cx="398.6" cy="223.1" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
-    <circle cx="377.2" cy="268.9" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
-    <text x="377.2" y="260.9" text-anchor="middle" font-size="10" fill="#374151">Prince Street</text>
-    <circle cx="383.6" cy="262.1" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
-    <circle cx="373.7" cy="275.6" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
-    <text x="373.7" y="267.6" text-anchor="middle" font-size="10" fill="#374151">Canal Street</text>
-    <circle cx="391.4" cy="250.9" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
-    <text x="391.4" y="242.9" text-anchor="middle" font-size="10" fill="#374151">23rd Street</text>
-    <circle cx="385.1" cy="262.7" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
-    <text x="385.1" y="254.7" text-anchor="middle" font-size="10" fill="#374151">Astor Place</text>
-    <circle cx="381.0" cy="267.1" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
-    <text x="381.0" y="259.1" text-anchor="middle" font-size="10" fill="#374151">Bleecker Street</text>
-    <circle cx="377.9" cy="271.2" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
-    <text x="377.9" y="263.2" text-anchor="middle" font-size="10" fill="#374151">Spring Street</text>
-    <circle cx="397.1" cy="243.9" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
-    <text x="397.1" y="235.9" text-anchor="middle" font-size="10" fill="#374151">33rd Street</text>
+  <g>
+    <circle cx="494.7" cy="116.6" r="4" fill="#dc2626"/>
+    <circle cx="282.4" cy="360.3" r="4" fill="#dc2626"/>
+    <circle cx="185.0" cy="465.5" r="4" fill="#dc2626"/>
+    <circle cx="167.8" cy="473.4" r="4" fill="#dc2626"/>
+    <circle cx="151.6" cy="477.8" r="4" fill="#dc2626"/>
+    <circle cx="134.0" cy="485.7" r="4" fill="#dc2626"/>
+    <circle cx="123.8" cy="494.9" r="4" fill="#dc2626"/>
+    <circle cx="101.9" cy="498.3" r="4" fill="#dc2626"/>
+    <circle cx="58.8" cy="509.4" r="4" fill="#dc2626"/>
+    <circle cx="415.9" cy="310.1" r="4" fill="#dc2626"/>
+    <circle cx="397.1" cy="307.2" r="4" fill="#dc2626"/>
+    <circle cx="393.1" cy="307.4" r="4" fill="#dc2626"/>
+    <circle cx="390.9" cy="295.0" r="4" fill="#dc2626"/>
+    <circle cx="409.4" cy="189.3" r="4" fill="#dc2626"/>
+    <circle cx="567.6" cy="234.5" r="4" fill="#dc2626"/>
+    <circle cx="495.7" cy="244.7" r="4" fill="#dc2626"/>
+    <circle cx="442.6" cy="243.8" r="4" fill="#dc2626"/>
+    <circle cx="460.4" cy="245.9" r="4" fill="#dc2626"/>
+    <circle cx="469.0" cy="246.8" r="4" fill="#dc2626"/>
+    <circle cx="476.7" cy="247.6" r="4" fill="#dc2626"/>
+    <circle cx="437.3" cy="246.5" r="4" fill="#dc2626"/>
+    <circle cx="577.6" cy="317.4" r="4" fill="#dc2626"/>
+    <circle cx="592.4" cy="312.6" r="4" fill="#dc2626"/>
+    <circle cx="510.4" cy="243.6" r="4" fill="#dc2626"/>
+    <circle cx="537.8" cy="240.7" r="4" fill="#dc2626"/>
+    <circle cx="512.6" cy="283.5" r="4" fill="#dc2626"/>
+    <circle cx="504.7" cy="289.5" r="4" fill="#dc2626"/>
+    <circle cx="495.7" cy="291.6" r="4" fill="#dc2626"/>
+    <circle cx="489.9" cy="293.4" r="4" fill="#dc2626"/>
+    <circle cx="295.6" cy="260.4" r="4" fill="#dc2626"/>
+    <circle cx="395.5" cy="322.4" r="4" fill="#dc2626"/>
+    <circle cx="87.5" cy="501.5" r="4" fill="#dc2626"/>
+    <circle cx="203.0" cy="459.7" r="4" fill="#dc2626"/>
+    <circle cx="356.7" cy="291.5" r="4" fill="#dc2626"/>
+    <circle cx="357.9" cy="294.6" r="4" fill="#dc2626"/>
+    <circle cx="448.5" cy="319.4" r="4" fill="#dc2626"/>
+    <circle cx="436.6" cy="318.8" r="4" fill="#dc2626"/>
+    <circle cx="460.9" cy="320.1" r="4" fill="#dc2626"/>
+    <circle cx="427.0" cy="329.9" r="4" fill="#dc2626"/>
+    <circle cx="436.6" cy="289.7" r="4" fill="#dc2626"/>
+    <circle cx="430.0" cy="206.3" r="4" fill="#dc2626"/>
+    <circle cx="448.6" cy="283.0" r="4" fill="#dc2626"/>
+    <circle cx="449.7" cy="287.9" r="4" fill="#dc2626"/>
+    <circle cx="436.6" cy="296.2" r="4" fill="#dc2626"/>
+    <circle cx="356.8" cy="359.0" r="4" fill="#dc2626"/>
+    <circle cx="424.3" cy="309.2" r="4" fill="#dc2626"/>
+    <circle cx="408.9" cy="322.7" r="4" fill="#dc2626"/>
+    <circle cx="394.3" cy="247.4" r="4" fill="#dc2626"/>
+    <circle cx="386.0" cy="256.0" r="4" fill="#dc2626"/>
+    <circle cx="388.5" cy="244.9" r="4" fill="#dc2626"/>
+    <circle cx="511.1" cy="159.3" r="4" fill="#dc2626"/>
+    <circle cx="406.3" cy="312.2" r="4" fill="#dc2626"/>
+    <circle cx="417.1" cy="315.6" r="4" fill="#dc2626"/>
+    <circle cx="372.2" cy="401.3" r="4" fill="#dc2626"/>
+    <circle cx="380.8" cy="369.2" r="4" fill="#dc2626"/>
+    <circle cx="383.3" cy="335.9" r="4" fill="#dc2626"/>
+    <circle cx="404.7" cy="352.5" r="4" fill="#dc2626"/>
+    <circle cx="496.5" cy="338.1" r="4" fill="#dc2626"/>
+    <circle cx="486.1" cy="321.3" r="4" fill="#dc2626"/>
+    <circle cx="534.7" cy="324.5" r="4" fill="#dc2626"/>
+    <circle cx="374.5" cy="276.0" r="4" fill="#dc2626"/>
+    <circle cx="379.1" cy="267.8" r="4" fill="#dc2626"/>
+    <circle cx="458.6" cy="289.5" r="4" fill="#dc2626"/>
+    <circle cx="397.0" cy="235.5" r="4" fill="#dc2626"/>
+    <circle cx="403.3" cy="237.8" r="4" fill="#dc2626"/>
+    <circle cx="408.5" cy="222.9" r="4" fill="#dc2626"/>
+    <circle cx="483.9" cy="246.4" r="4" fill="#dc2626"/>
+    <circle cx="611.4" cy="290.4" r="4" fill="#dc2626"/>
+    <circle cx="454.3" cy="156.0" r="4" fill="#dc2626"/>
+    <circle cx="449.3" cy="141.0" r="4" fill="#dc2626"/>
+    <circle cx="498.6" cy="119.2" r="4" fill="#dc2626"/>
+    <circle cx="502.4" cy="113.3" r="4" fill="#dc2626"/>
+    <circle cx="569.9" cy="318.8" r="4" fill="#dc2626"/>
+    <circle cx="382.1" cy="408.1" r="4" fill="#dc2626"/>
+    <circle cx="357.0" cy="288.2" r="4" fill="#dc2626"/>
+    <circle cx="359.1" cy="283.6" r="4" fill="#dc2626"/>
+    <circle cx="362.8" cy="279.0" r="4" fill="#dc2626"/>
+    <circle cx="362.8" cy="288.9" r="4" fill="#dc2626"/>
+    <circle cx="386.6" cy="281.0" r="4" fill="#dc2626"/>
+    <circle cx="382.1" cy="276.0" r="4" fill="#dc2626"/>
+    <circle cx="382.2" cy="273.6" r="4" fill="#dc2626"/>
+    <circle cx="360.5" cy="289.2" r="4" fill="#dc2626"/>
+    <circle cx="373.1" cy="260.6" r="4" fill="#dc2626"/>
+    <circle cx="386.9" cy="270.0" r="4" fill="#dc2626"/>
+    <circle cx="390.1" cy="275.7" r="4" fill="#dc2626"/>
+    <circle cx="416.8" cy="223.1" r="4" fill="#dc2626"/>
+    <circle cx="393.7" cy="235.0" r="4" fill="#dc2626"/>
+    <circle cx="415.1" cy="225.3" r="4" fill="#dc2626"/>
+    <circle cx="409.4" cy="231.7" r="4" fill="#dc2626"/>
+    <circle cx="404.4" cy="227.8" r="4" fill="#dc2626"/>
+    <circle cx="397.3" cy="225.2" r="4" fill="#dc2626"/>
+    <circle cx="398.6" cy="223.1" r="4" fill="#dc2626"/>
+    <circle cx="377.2" cy="268.9" r="4" fill="#dc2626"/>
+    <circle cx="383.6" cy="262.1" r="4" fill="#dc2626"/>
+    <circle cx="373.7" cy="275.6" r="4" fill="#dc2626"/>
+    <circle cx="391.4" cy="250.9" r="4" fill="#dc2626"/>
+    <circle cx="385.1" cy="262.7" r="4" fill="#dc2626"/>
+    <circle cx="381.0" cy="267.1" r="4" fill="#dc2626"/>
+    <circle cx="377.9" cy="271.2" r="4" fill="#dc2626"/>
+    <circle cx="397.1" cy="243.9" r="4" fill="#dc2626"/>
   </g>
 </svg>
