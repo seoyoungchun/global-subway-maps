@@ -1,0 +1,45 @@
+json
+{
+  "stations": [
+    {
+      "id": "seoul_station",
+      "name_ko": "서울역",
+      "name_en": "Seoul Station",
+      "name_zh": "首尔站",
+      "name_ja": "ソウル駅",
+      "lines": ["1", "4", "Airport"],
+      "nx": 0.375,
+      "ny": 0.583
+    },
+    {
+      "id": "gangnam_station",
+      "name_ko": "강남역",
+      "name_en": "Gangnam Station", 
+      "name_zh": "江南站",
+      "name_ja": "カンナム駅",
+      "lines": ["2"],
+      "nx": 0.625,
+      "ny": 0.583
+    },
+    {
+      "id": "jongno3ga_station",
+      "name_ko": "종로3가",
+      "name_en": "Jongno 3-ga",
+      "name_zh": "钟路3街",
+      "name_ja": "チョンロサンガ",
+      "lines": ["1", "3", "5"],
+      "nx": 0.5,
+      "ny": 0.417
+    },
+    {
+      "id": "hongik_univ_station",
+      "name_ko": "홍대입구",
+      "name_en": "Hongik University",
+      "name_zh": "弘大入口",
+      "name_ja": "ホンデイック",
+      "lines": ["2", "6", "Airport"],
+      "nx": 0.3125,
+      "ny": 0.5
+    }
+  ]
+}
