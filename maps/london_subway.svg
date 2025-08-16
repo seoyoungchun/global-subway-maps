@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800" height="600" viewBox="0 0 800 600" 
+     xmlns="http://www.w3.org/2000/svg">
+  <title>London Subway Map</title>
+  <rect width="100%" height="100%" fill="#f8f9fa"/>
+
+  <!-- 지하철 선로 -->
+  <g id="subway-lines" stroke="#2563eb" stroke-width="3" fill="none">
+    <polyline points="304.9,286.8 304.7,285.8 304.7,285.6" opacity="0.8"/>
+    <polyline points="323.7,255.0 324.1,254.6 324.3,254.4 324.6,254.2 324.7,254.0 324.9,253.9 325.0,253.8 325.3,253.7 325.6,253.5 325.8,253.4 326.0,253.4 326.2,253.3 326.4,253.3 326.6,253.2 326.8,253.2 327.0,253.2 327.2,253.2 327.4,253.2 327.6,253.2 327.9,253.2 328.0,253.3 328.2,253.3" opacity="0.8"/>
+    <polyline points="342.4,136.3 341.7,138.8" opacity="0.8"/>
+    <polyline points="405.8,241.5 405.5,241.4 405.3,241.4 405.1,241.4 404.9,241.4 404.7,241.4 404.6,241.4 404.5,241.4 404.3,241.4 404.0,241.5 403.7,241.6 403.5,241.7" opacity="0.8"/>
+    <polyline points="574.1,106.9 574.1,107.0 574.0,107.2 573.9,107.8 573.8,108.2 573.7,108.6 573.7,108.8 573.6,109.1 573.5,109.3 573.2,110.1 572.9,110.9 572.4,112.1 571.3,113.8 570.4,115.3 569.8,116.5 569.5,117.2 569.1,117.9 568.8,118.7 568.6,119.5 568.3,120.3 568.1,121.0 567.9,121.5 567.6,123.0 567.5,123.3 567.4,124.0 567.2,124.4 567.2,124.7" opacity="0.8"/>
+    <polyline points="554.9,147.7 554.3,149.3 554.1,149.7 554.0,150.0 553.7,150.6 553.5,151.1 553.2,151.7 552.9,152.5 552.7,153.0 550.9,157.1 550.0,159.4 549.7,160.4" opacity="0.8"/>
+    <polyline points="520.5,231.2 520.2,230.7 520.1,230.6 520.0,230.5 519.9,230.4 519.8,230.2 519.7,230.0 519.5,229.8 519.4,229.6 519.2,229.3 519.1,229.1 518.9,228.7" opacity="0.8"/>
+    <polyline points="123.3,189.0 119.1,190.2 118.8,190.3 118.4,190.4 118.0,190.5 117.6,190.6 117.2,190.7 116.7,190.8 116.4,190.8 116.1,190.9 115.3,191.1 114.8,191.3 114.6,191.3 114.4,191.4 114.3,191.5 114.0,191.6 113.7,191.7 113.4,191.8 113.0,192.0 112.6,192.2 112.1,192.4 111.5,192.7 110.5,193.3 109.4,193.9 108.8,194.2 108.4,194.5 105.2,196.2 103.2,197.3 102.5,197.7 102.4,197.7 101.8,198.1 101.3,198.3 100.7,198.6 100.3,198.8 100.0,199.0 99.5,199.3 99.1,199.5 98.8,199.7 98.4,199.8 98.1,200.1 97.7,200.4 97.4,200.6" opacity="0.8"/>
+    <polyline points="182.7,200.0 183.0,200.4 183.4,200.9" opacity="0.8"/>
+    <polyline points="243.9,261.0 244.0,261.1 244.1,261.2 244.1,261.3 244.2,261.4 244.3,261.6 244.3,261.8 244.3,261.9 244.4,262.1 244.4,262.4 244.4,262.6 244.3,262.8 244.3,263.0 244.2,263.5 244.1,263.8 244.1,264.0 244.0,264.4 243.9,265.5 243.9,266.0" opacity="0.8"/>
+    <polyline points="307.7,289.9 307.8,290.0 307.9,290.1 308.0,290.2 308.4,290.4 308.6,290.5 308.7,290.6 308.9,290.7 309.2,290.8 309.4,290.9 309.8,291.0 310.2,291.0 310.8,291.0 311.2,291.0 312.7,291.0 313.2,290.9 313.6,290.9 313.9,290.9 314.1,290.9 314.2,290.9 314.4,290.9 314.6,290.8 314.8,290.8 315.0,290.9" opacity="0.8"/>
+    <polyline points="100.2,193.6 101.2,194.0 101.5,194.1 102.4,194.5 104.6,195.4 105.2,195.6" opacity="0.8"/>
+    <polyline points="621.1,69.8 621.5,68.7 621.5,68.7 621.5,68.7 621.5,68.4 621.6,68.4 621.6,68.3 621.7,68.2 621.7,68.1 621.7,68.1 621.7,68.0 621.7,68.0 621.7,67.9 621.8,67.8 621.8,67.7 621.8,67.6 621.8,67.6" opacity="0.8"/>
+    <polyline points="498.2,245.9 498.3,246.0 498.5,246.0 498.7,246.1 498.8,246.1 499.0,246.2 499.3,246.4 501.0,247.6 501.7,248.0 501.9,248.1" opacity="0.8"/>
+    <polyline points="304.3,283.0 304.2,282.5" opacity="0.8"/>
+    <polyline points="247.1,184.5 247.5,184.2 248.0,183.9 248.5,183.5 249.0,183.3 249.2,183.1 249.5,182.9 249.7,182.7 250.1,182.4 250.3,182.2 250.6,181.8 250.9,181.5 251.2,181.2 251.4,180.8 251.6,180.4 251.9,179.8 252.0,179.5 252.1,179.2 252.3,178.3 252.4,177.8 252.5,177.3 252.6,176.8 252.7,176.4 252.8,176.0 253.0,175.4 253.1,175.0 253.1,174.7" opacity="0.8"/>
+    <polyline points="233.0,137.5 233.0,137.4 232.9,137.2 232.8,137.1 232.8,136.9 232.1,135.9 231.8,135.3" opacity="0.8"/>
+    <polyline points="609.0,186.1 609.0,186.0 608.9,185.2 608.9,184.9 608.8,184.6 608.6,183.5 608.4,182.8 608.1,182.0 608.0,181.2 607.7,180.4 607.5,179.5 607.4,178.5 607.3,177.5 607.3,176.6 607.5,175.1 607.7,173.4 608.0,171.5 608.2,169.4 608.3,168.6 608.5,168.0 608.8,166.7 609.3,164.6 609.6,163.1 609.9,161.7" opacity="0.8"/>
+    <polyline points="612.8,149.4 612.8,149.2 612.8,149.1 612.8,148.9" opacity="0.8"/>
+    <polyline points="612.6,141.4 612.5,141.3 612.4,141.2 612.3,141.0" opacity="0.8"/>
+    <polyline points="613.9,144.1 613.8,143.8 613.8,143.6 613.8,143.5 613.7,143.3 613.6,143.2 613.6,143.1 613.5,142.9 613.3,142.6 613.3,142.5 613.2,142.3 613.2,142.1 613.1,141.9 613.0,141.7 612.9,141.5" opacity="0.8"/>
+    <polyline points="338.5,97.0 338.2,96.5 337.9,96.1 337.7,95.9 337.5,95.7 337.1,95.4 336.9,95.2 336.7,95.1 336.2,94.8 335.8,94.5 335.8,94.5 335.0,93.9" opacity="0.8"/>
+    <polyline points="336.6,278.5 336.5,278.4" opacity="0.8"/>
+    <polyline points="340.4,191.4 340.2,191.4 340.0,191.3 339.8,191.2 339.5,191.1 339.3,191.0 339.1,190.9 338.8,190.8 338.7,190.8 338.6,190.7 338.5,190.6 338.4,190.6 338.2,190.5 338.0,190.4 337.7,190.3 337.1,190.2" opacity="0.8"/>
+    <polyline points="338.3,190.4 338.2,190.3 338.1,190.1 338.0,190.0 337.8,189.9 337.8,189.8 337.7,189.8 337.6,189.7 337.5,189.7 337.3,189.6" opacity="0.8"/>
+    <polyline points="338.5,190.6 338.4,190.5 338.3,190.4 338.3,190.3 338.2,190.2 338.2,190.2 338.2,190.1 338.1,190.0 338.0,189.9 338.0,189.8 337.9,189.7 337.8,189.6 337.5,189.5 337.4,189.4 337.0,189.3" opacity="0.8"/>
+    <polyline points="338.0,189.8 337.9,189.6 337.9,189.5 337.8,189.4 337.7,189.3 337.7,189.2 337.6,189.1 337.5,189.0 337.4,189.0 337.3,188.9 337.2,188.8 337.1,188.8 336.9,188.7 336.6,188.7 336.2,188.5" opacity="0.8"/>
+    <polyline points="338.2,190.2 338.2,190.0 338.2,189.9 338.1,189.9 338.1,189.7 338.0,189.5 338.0,189.4 338.0,189.3 338.0,189.2 338.0,189.1 337.9,189.0 337.9,188.9 337.8,188.8 337.8,188.7 337.7,188.7 337.6,188.6 337.5,188.5 337.4,188.5 337.3,188.4 337.0,188.4" opacity="0.8"/>
+    <polyline points="338.9,280.8 338.1,280.3 338.0,280.1" opacity="0.8"/>
+    <polyline points="378.3,250.4 376.8,250.6 376.2,250.6 375.0,250.7 374.1,251.0 372.0,251.4" opacity="0.8"/>
+    <polyline points="577.6,104.2 577.5,104.2" opacity="0.8"/>
+    <polyline points="515.8,210.4 515.5,210.7 515.3,211.0 515.1,211.2 514.9,211.5 514.8,211.8 514.7,212.0 514.6,212.3 514.6,212.5 514.5,212.8 514.5,213.1 514.5,213.4 514.5,213.6 514.6,213.8 514.6,214.0 514.7,214.3 514.8,214.6 514.9,214.8 515.0,215.0" opacity="0.8"/>
+    <polyline points="530.4,194.7 530.2,195.0 530.0,195.3 529.9,195.5 529.7,195.7 529.6,195.9 528.9,197.2 528.1,198.7 527.4,199.7 526.7,200.7 526.1,201.5 525.6,201.9" opacity="0.8"/>
+    <polyline points="444.9,181.0 444.3,181.4 443.5,182.0 442.6,182.8 440.0,186.1 439.4,186.7 438.8,187.4 438.1,188.0 437.3,188.5 436.4,189.0 431.4,191.2 429.9,191.8 428.6,192.2 426.8,192.7 422.4,193.6 421.8,193.8 421.3,194.1 420.8,194.4 420.5,194.8 420.2,195.2 420.0,196.1 419.5,198.3" opacity="0.8"/>
+    <polyline points="549.7,160.4 549.6,161.1" opacity="0.8"/>
+    <polyline points="549.6,161.1 549.2,162.5 548.7,165.6 548.7,165.6 548.7,165.9 548.4,167.5 548.2,168.0 547.9,169.3 547.4,170.7 546.8,171.9 546.4,172.9 545.5,174.6 545.4,174.8 544.3,177.0 543.7,178.3 543.3,179.1" opacity="0.8"/>
+    <polyline points="449.0,261.3 449.2,261.5 449.2,261.6 449.3,261.6" opacity="0.8"/>
+    <polyline points="582.6,132.0 581.5,132.0" opacity="0.8"/>
+    <polyline points="611.5,139.7 611.3,139.6 611.2,139.5 610.9,139.4 610.7,139.2 610.6,139.1 610.4,139.0 610.2,138.9 609.8,138.8 609.4,138.7 608.2,138.2" opacity="0.8"/>
+    <polyline points="612.3,151.8 612.5,151.2 612.5,151.0" opacity="0.8"/>
+    <polyline points="586.6,184.7 587.2,184.8 588.0,185.0 588.7,185.2 589.4,185.5 590.4,185.9 595.1,188.9 596.9,190.0 597.1,190.1 598.5,191.1 600.2,192.1 600.7,192.4 601.2,192.6 601.6,192.7 602.0,192.8 602.7,192.9 603.3,193.0 604.0,193.1 604.6,193.0 605.1,193.0 605.5,193.0 605.9,192.9 606.2,192.8 606.5,192.7 606.8,192.5 607.0,192.4 607.2,192.2 607.4,192.0 607.6,191.9 607.9,191.5 608.2,190.7 608.5,189.9 608.7,189.0" opacity="0.8"/>
+    <polyline points="566.6,134.4 564.5,134.9 564.4,134.9 564.1,135.0 563.9,135.0 563.8,135.1 563.7,135.1 563.5,135.2 563.3,135.3 563.2,135.3 563.0,135.4 562.9,135.5 562.8,135.5 562.7,135.6 562.5,135.7 562.3,135.8 562.1,135.9 562.0,136.0 561.9,136.1 561.8,136.2 561.8,136.3 561.7,136.4 561.6,136.5" opacity="0.8"/>
+    <polyline points="595.0,134.1 594.1,133.9 592.3,133.5 588.0,132.7 586.6,132.5 585.3,132.2 584.4,132.1 583.4,132.0" opacity="0.8"/>
+    <polyline points="583.4,132.0 582.6,132.0" opacity="0.8"/>
+    <polyline points="605.2,137.1 603.3,136.4 601.5,135.8 595.0,134.1" opacity="0.8"/>
+    <polyline points="608.2,138.2 605.2,137.1" opacity="0.8"/>
+    <polyline points="610.1,160.9 610.7,158.7 611.2,156.6 611.6,155.0" opacity="0.8"/>
+    <polyline points="372.0,251.4 371.7,251.5 370.9,251.7 370.1,251.8 369.7,251.9 364.1,253.3 362.8,253.5" opacity="0.8"/>
+    <polyline points="448.6,261.0 448.7,261.0 448.9,261.1 449.1,261.1 449.2,261.2 449.4,261.2 449.7,261.2 450.2,261.2 450.6,261.2 450.8,261.2 450.9,261.1 451.0,261.1" opacity="0.8"/>
+    <polyline points="440.7,266.0 441.0,266.0 441.2,266.0 441.4,266.0 441.9,266.1 442.3,266.2 442.5,266.3 443.4,266.7 444.5,267.1 444.5,267.2 444.6,267.2 445.3,267.2 445.9,267.2 446.2,267.3 446.4,267.3 446.5,267.2 446.6,267.2 446.9,267.0 447.1,267.0 447.1,267.0" opacity="0.8"/>
+  </g>
+
+  <!-- 지하철 역 -->
+  <g id="subway-stations">
+    <circle cx="303.6" cy="271.6" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <circle cx="336.5" cy="154.9" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="336.5" y="146.9" text-anchor="middle" font-size="10" fill="#374151">Finchley Central</text>
+    <circle cx="371.6" cy="288.6" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="371.6" y="280.6" text-anchor="middle" font-size="10" fill="#374151">Sloane Square</text>
+    <circle cx="323.9" cy="375.0" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="323.9" y="367.0" text-anchor="middle" font-size="10" fill="#374151">Wimbledon</text>
+    <circle cx="430.2" cy="264.4" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="430.2" y="256.4" text-anchor="middle" font-size="10" fill="#374151">Mansion House</text>
+    <circle cx="171.5" cy="174.2" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="171.5" y="166.2" text-anchor="middle" font-size="10" fill="#374151">North Harrow</text>
+    <circle cx="198.8" cy="165.5" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="198.8" y="157.5" text-anchor="middle" font-size="10" fill="#374151">Harrow & Wealdstone</text>
+    <circle cx="243.3" cy="257.5" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="243.3" y="249.5" text-anchor="middle" font-size="10" fill="#374151">North Ealing</text>
+    <circle cx="125.8" cy="204.4" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="125.8" y="196.4" text-anchor="middle" font-size="10" fill="#374151">Ruislip Gardens</text>
+    <circle cx="224.3" cy="192.5" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="224.3" y="184.5" text-anchor="middle" font-size="10" fill="#374151">South Kenton</text>
+    <circle cx="228.7" cy="202.2" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="228.7" y="194.2" text-anchor="middle" font-size="10" fill="#374151">North Wembley</text>
+    <circle cx="367.9" cy="358.3" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="367.9" y="350.3" text-anchor="middle" font-size="10" fill="#374151">Tooting Bec</text>
+    <circle cx="397.0" cy="321.8" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="397.0" y="313.8" text-anchor="middle" font-size="10" fill="#374151">Clapham North</text>
+    <circle cx="413.6" cy="301.4" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="413.6" y="293.4" text-anchor="middle" font-size="10" fill="#374151">Oval</text>
+    <circle cx="419.9" cy="293.5" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="419.9" y="285.5" text-anchor="middle" font-size="10" fill="#374151">Kennington</text>
+    <circle cx="392.2" cy="279.9" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="392.2" y="271.9" text-anchor="middle" font-size="10" fill="#374151">St. James's Park</text>
+    <circle cx="401.5" cy="277.4" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="401.5" y="269.4" text-anchor="middle" font-size="10" fill="#374151">Westminster</text>
+    <circle cx="411.4" cy="325.0" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="411.4" y="317.0" text-anchor="middle" font-size="10" fill="#374151">Brixton</text>
+    <circle cx="481.9" cy="172.3" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="481.9" y="164.3" text-anchor="middle" font-size="10" fill="#374151">Blackhorse Road</text>
+    <circle cx="379.7" cy="337.1" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="379.7" y="329.1" text-anchor="middle" font-size="10" fill="#374151">Clapham South</text>
+    <circle cx="374.5" cy="348.8" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="374.5" y="340.8" text-anchor="middle" font-size="10" fill="#374151">Balham</text>
+    <circle cx="359.7" cy="368.1" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="359.7" y="360.1" text-anchor="middle" font-size="10" fill="#374151">Tooting Broadway</text>
+    <circle cx="350.4" cy="379.7" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="350.4" y="371.7" text-anchor="middle" font-size="10" fill="#374151">Colliers Wood</text>
+    <circle cx="336.1" cy="383.5" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="336.1" y="375.5" text-anchor="middle" font-size="10" fill="#374151">South Wimbledon</text>
+    <circle cx="566.0" cy="185.1" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="566.0" y="177.1" text-anchor="middle" font-size="10" fill="#374151">Redbridge</text>
+    <circle cx="437.5" cy="247.5" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="437.5" y="239.5" text-anchor="middle" font-size="10" fill="#374151">Old Street</text>
+    <circle cx="216.4" cy="178.7" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="216.4" y="170.7" text-anchor="middle" font-size="10" fill="#374151">Kenton</text>
+    <circle cx="402.5" cy="241.4" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <circle cx="403.9" cy="313.3" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="403.9" y="305.3" text-anchor="middle" font-size="10" fill="#374151">Stockwell</text>
+    <circle cx="418.4" cy="207.2" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="418.4" y="199.2" text-anchor="middle" font-size="10" fill="#374151">Arsenal</text>
+    <circle cx="391.5" cy="292.4" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="391.5" y="284.4" text-anchor="middle" font-size="10" fill="#374151">Pimlico</text>
+    <circle cx="383.9" cy="283.5" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="383.9" y="275.5" text-anchor="middle" font-size="10" fill="#374151">Victoria</text>
+    <circle cx="251.7" cy="200.7" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="251.7" y="192.7" text-anchor="middle" font-size="10" fill="#374151">Wembley Park</text>
+    <circle cx="419.4" cy="199.2" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="419.4" y="191.2" text-anchor="middle" font-size="10" fill="#374151">Finsbury Park</text>
+    <circle cx="370.8" cy="251.2" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="370.8" y="243.2" text-anchor="middle" font-size="10" fill="#374151">Baker Street</text>
+    <circle cx="352.8" cy="260.0" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="352.8" y="252.0" text-anchor="middle" font-size="10" fill="#374151">Paddington</text>
+    <circle cx="392.0" cy="198.6" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="392.0" y="190.6" text-anchor="middle" font-size="10" fill="#374151">Archway</text>
+    <circle cx="282.6" cy="257.7" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="282.6" y="249.7" text-anchor="middle" font-size="10" fill="#374151">East Acton</text>
+    <circle cx="543.0" cy="179.6" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="543.0" y="171.6" text-anchor="middle" font-size="10" fill="#374151">Snaresbrook</text>
+    <circle cx="435.8" cy="262.9" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="435.8" y="254.9" text-anchor="middle" font-size="10" fill="#374151">Bank</text>
+    <circle cx="92.0" cy="329.8" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="92.0" y="321.8" text-anchor="middle" font-size="10" fill="#374151">Heathrow Terminal 4</text>
+    <circle cx="315.1" cy="291.0" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="315.1" y="283.0" text-anchor="middle" font-size="10" fill="#374151">Barons Court</text>
+    <circle cx="393.6" cy="135.7" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="393.6" y="127.7" text-anchor="middle" font-size="10" fill="#374151">Arnos Grove</text>
+    <circle cx="419.8" cy="239.1" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="419.8" y="231.1" text-anchor="middle" font-size="10" fill="#374151">Angel</text>
+    <circle cx="384.4" cy="230.5" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="384.4" y="222.5" text-anchor="middle" font-size="10" fill="#374151">Camden Town</text>
+    <circle cx="363.0" cy="171.7" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="363.0" y="163.7" text-anchor="middle" font-size="10" fill="#374151">East Finchley</text>
+    <circle cx="381.3" cy="183.4" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="381.3" y="175.4" text-anchor="middle" font-size="10" fill="#374151">Highgate</text>
+    <circle cx="388.5" cy="209.1" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="388.5" y="201.1" text-anchor="middle" font-size="10" fill="#374151">Tufnell Park</text>
+    <circle cx="303.4" cy="176.4" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="303.4" y="168.4" text-anchor="middle" font-size="10" fill="#374151">Hendon Central</text>
+    <circle cx="334.9" cy="93.8" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="334.9" y="85.8" text-anchor="middle" font-size="10" fill="#374151">High Barnet</text>
+    <circle cx="315.5" cy="184.5" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="315.5" y="176.5" text-anchor="middle" font-size="10" fill="#374151">Brent Cross</text>
+    <circle cx="189.2" cy="227.2" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="189.2" y="219.2" text-anchor="middle" font-size="10" fill="#374151">Greenford</text>
+    <circle cx="319.2" cy="145.7" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="319.2" y="137.7" text-anchor="middle" font-size="10" fill="#374151">Mill Hill East</text>
+    <circle cx="340.3" cy="144.3" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="340.3" y="136.3" text-anchor="middle" font-size="10" fill="#374151">West Finchley</text>
+    <circle cx="343.0" cy="133.8" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="343.0" y="125.8" text-anchor="middle" font-size="10" fill="#374151">Woodside Park</text>
+    <circle cx="182.1" cy="199.4" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="182.1" y="191.4" text-anchor="middle" font-size="10" fill="#374151">South Harrow</text>
+    <circle cx="217.4" cy="216.6" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="217.4" y="208.6" text-anchor="middle" font-size="10" fill="#374151">Sudbury Town</text>
+    <circle cx="197.5" cy="209.0" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="197.5" y="201.0" text-anchor="middle" font-size="10" fill="#374151">Sudbury Hill</text>
+    <circle cx="361.1" cy="254.2" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="361.1" y="246.2" text-anchor="middle" font-size="10" fill="#374151">Edgware Road</text>
+    <circle cx="464.1" cy="254.7" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="464.1" y="246.7" text-anchor="middle" font-size="10" fill="#374151">Whitechapel</text>
+    <circle cx="426.9" cy="254.2" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="426.9" y="246.2" text-anchor="middle" font-size="10" fill="#374151">Barbican</text>
+    <circle cx="607.7" cy="173.4" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="607.7" y="165.4" text-anchor="middle" font-size="10" fill="#374151">Barkingside</text>
+    <circle cx="377.9" cy="261.8" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="377.9" y="253.8" text-anchor="middle" font-size="10" fill="#374151">Bond Street</text>
+    <circle cx="567.3" cy="124.0" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="567.3" y="116.0" text-anchor="middle" font-size="10" fill="#374151">Buckhurst Hill</text>
+    <circle cx="414.2" cy="256.7" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="414.2" y="248.7" text-anchor="middle" font-size="10" fill="#374151">Chancery Lane</text>
+    <circle cx="595.2" cy="134.2" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="595.2" y="126.2" text-anchor="middle" font-size="10" fill="#374151">Chigwell</text>
+    <circle cx="602.8" cy="100.1" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="602.8" y="92.1" text-anchor="middle" font-size="10" fill="#374151">Debden</text>
+    <circle cx="610.1" cy="160.9" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="610.1" y="152.9" text-anchor="middle" font-size="10" fill="#374151">Fairlop</text>
+    <circle cx="584.8" cy="184.8" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="584.8" y="176.8" text-anchor="middle" font-size="10" fill="#374151">Gants Hill</text>
+    <circle cx="611.5" cy="139.7" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="611.5" y="131.7" text-anchor="middle" font-size="10" fill="#374151">Grange Hill</text>
+    <circle cx="612.3" cy="151.8" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="612.3" y="143.8" text-anchor="middle" font-size="10" fill="#374151">Hainault</text>
+    <circle cx="489.9" cy="247.9" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="489.9" y="239.9" text-anchor="middle" font-size="10" fill="#374151">Mile End</text>
+    <circle cx="439.0" cy="266.0" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="439.0" y="258.0" text-anchor="middle" font-size="10" fill="#374151">Monument</text>
+    <circle cx="564.4" cy="134.9" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="564.4" y="126.9" text-anchor="middle" font-size="10" fill="#374151">Roding Valley</text>
+    <circle cx="421.2" cy="254.5" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="421.2" y="246.5" text-anchor="middle" font-size="10" fill="#374151">Farringdon</text>
+    <circle cx="398.3" cy="264.9" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="398.3" y="256.9" text-anchor="middle" font-size="10" fill="#374151">Leicester Square</text>
+    <circle cx="442.5" cy="257.3" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="442.5" y="249.3" text-anchor="middle" font-size="10" fill="#374151">Liverpool Street</text>
+    <circle cx="434.9" cy="265.0" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="434.9" y="257.0" text-anchor="middle" font-size="10" fill="#374151">Cannon Street</text>
+    <circle cx="392.2" cy="267.0" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="392.2" y="259.0" text-anchor="middle" font-size="10" fill="#374151">Piccadilly Circus</text>
+    <circle cx="412.1" cy="275.4" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="412.1" y="267.4" text-anchor="middle" font-size="10" fill="#374151">Waterloo</text>
+    <circle cx="400.1" cy="269.3" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="400.1" y="261.3" text-anchor="middle" font-size="10" fill="#374151">Charing Cross</text>
+    <circle cx="425.0" cy="285.4" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="425.0" y="277.4" text-anchor="middle" font-size="10" fill="#374151">Elephant & Castle</text>
+    <circle cx="392.9" cy="244.2" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="392.9" y="236.2" text-anchor="middle" font-size="10" fill="#374151">Euston</text>
+    <circle cx="406.2" cy="258.0" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="406.2" y="250.0" text-anchor="middle" font-size="10" fill="#374151">Holborn</text>
+    <circle cx="330.0" cy="360.3" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="330.0" y="352.3" text-anchor="middle" font-size="10" fill="#374151">Wimbledon Park</text>
+    <circle cx="294.5" cy="286.3" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="294.5" y="278.3" text-anchor="middle" font-size="10" fill="#374151">Ravenscourt Park</text>
+    <circle cx="421.9" cy="264.8" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="421.9" y="256.8" text-anchor="middle" font-size="10" fill="#374151">Blackfriars</text>
+    <circle cx="414.0" cy="280.4" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="414.0" y="272.4" text-anchor="middle" font-size="10" fill="#374151">Lambeth North</text>
+    <circle cx="449.0" cy="261.5" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="449.0" y="253.5" text-anchor="middle" font-size="10" fill="#374151">Aldgate</text>
+    <circle cx="449.8" cy="177.5" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="449.8" y="169.5" text-anchor="middle" font-size="10" fill="#374151">Seven Sisters</text>
+    <circle cx="322.6" cy="345.8" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="322.6" y="337.8" text-anchor="middle" font-size="10" fill="#374151">Southfields</text>
+    <circle cx="401.6" cy="296.3" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="401.6" y="288.3" text-anchor="middle" font-size="10" fill="#374151">Vauxhall</text>
+    <circle cx="225.1" cy="278.0" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="225.1" y="270.0" text-anchor="middle" font-size="10" fill="#374151">South Ealing</text>
+    <circle cx="555.0" cy="235.8" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="555.0" y="227.8" text-anchor="middle" font-size="10" fill="#374151">Upton Park</text>
+    <circle cx="389.5" cy="325.8" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="389.5" y="317.8" text-anchor="middle" font-size="10" fill="#374151">Clapham Common</text>
+    <circle cx="305.6" cy="264.4" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="305.6" y="256.4" text-anchor="middle" font-size="10" fill="#374151">White City</text>
+    <circle cx="349.5" cy="256.3" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="349.5" y="248.3" text-anchor="middle" font-size="10" fill="#374151">Paddington</text>
+    <circle cx="548.6" cy="166.0" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="548.6" y="158.0" text-anchor="middle" font-size="10" fill="#374151">South Woodford</text>
+    <circle cx="100.2" cy="193.5" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="100.2" y="185.5" text-anchor="middle" font-size="10" fill="#374151">West Ruislip</text>
+    <circle cx="453.7" cy="259.8" r="4" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+    <text x="453.7" y="251.8" text-anchor="middle" font-size="10" fill="#374151">Aldgate East</text>
+  </g>
+</svg>
